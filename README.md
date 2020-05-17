@@ -60,6 +60,37 @@ My plan for the following week(May 18 ~ May 24) shows as following:
 - Choose the proper dataset from The UCLA NewsScape data from the gallina directory ( /mnt/rds/redhen/gallina/tv ) on CWRU HPC
 - Implement Semafor and Open Sesame
 
+My study materials and important website that may be helpful for other student who takes over this project: 
+
+Semantics 
+http://eecoppock.info/bootcamp/semantics-boot-camp.pdf
+
+Syntax 
+https://www.ling.upenn.edu/~beatrice/syntax-textbook/
+
+Semafor 
+https://github.com/Noahs-ARK/semafor
+
+Open Sesame 
+https://github.com/swabhs/open-sesame
+
+FrameNet Full Text Annotation 
+https://framenet.icsi.berkeley.edu/fndrupal/fulltextIndex
+
+About Multimodal Communication: 
+Tutorial on Multimodal Machine Learning
+https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf
+
+Multimodal Machine Learning: A Survey and Taxonomy
+https://arxiv.org/abs/1705.09406
+
+Multimodal Fusion for Multimedia Analysis: A Survey
+https://link.springer.com/article/10.1007/s00530-010-0182-0
+
+Deep Multimodal Learning: A survey on recent advances and trends
+https://ieeexplore.ieee.org/document/8103116
+
+
 
 ## Coding Period Before the First Evaluation 
 - June 1: 
