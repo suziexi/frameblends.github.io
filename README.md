@@ -10,28 +10,28 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - May 13: Inital Meeting with Professor Turner 
 - May 14: Inital onboarding meeting with other GSoC members 
 
-### Blog Report #1
+### Blog Report #1 (Still Updating)
 May 11 ~ May 17
 
 Part 1: Completed preparation tasks 
 After the initial meeting and the group meeting, I gain a more specific sense of the plan, path, and the direction of this project, and also feel supported by a professional and welcoming community. After the meeting, I review both my notes and the video recording of my initial project meeting. I summarized the tasks and finished some part of it, while also setting a clear timeline of studying, planning, and coding. I reach out to the student who had worked on the FrameNet project last year(Yong) from LinkedIn and got his email address. Thus, I will email him to clarify some questions about FrameNet 1.7 and Semafor this week. I have reached out to Professor Whitehouse and Dr. Uhrig, who expressed interest in my project and proposal during the group meeting. Based on the rich amount of information I received, I list some small tasks before setting a timeline and a detailed plan. The following small tasks have been completed by May 18, Monday. 
 
-Understand Red Hen Techne Public Site in detail 
-Understand how to create Singularity and other information related to Singularity 
-Understand Red Hen Edge Search Engine and Edge2 Search Engine in detail
+- Understand Red Hen Techne Public Site in detail 
+- Understand how to create Singularity and other information related to Singularity 
+- Understand Red Hen Edge Search Engine and Edge2 Search Engine in detail
 (e.g., How to search for linguistic patterns) 
-Explore the data from Gallina Home, be familiar with the different file extension, especially seg file 
-Be familiar with the existed frame detecting tools, such as Semafor and Open-Sesame packages (These are the packages to decide which is the best candidate for tagging) 
-Study the mechanism of Berkeley FrameNet, especially Full Text Annotation 
-Read about Semantics “Semantics Boot Camp” written by Elizabeth Coppock & Lucas Champollion 
-Read about MetaNet mentioned by Professor Torrent, especially the paper “Automatic metaphor detection using constructions and frames” (?) 
-Read about Global FrameNet mentioned by Professor Torrent, especially the paper “The Multilingual FrameNet Shared Annotation Task: a Preliminary Report” 
-Reflect about Xi Jing Ping’s speech video, which combined complicated visual and text to create FrameBlends, and as a great example of multimodal communication 
-Read some important publications about multimodality, including 
-- “Tutorial on Multimodal Machine Learning” from ACL 2017
-- “Multimodal Machine Learning: A Survey and Taxonomy” 
-- “Multimodal Fusion for Multimedia Analysis: A Survey”
-- “Deep Multimodal Learning: A survey on recent advances and trends” 
+- Explore the data from Gallina Home, be familiar with the different file extension, especially seg file 
+- Be familiar with the existed frame detecting tools, such as Semafor and Open-Sesame packages (These are the packages to decide which is the best candidate for tagging) 
+- Study the mechanism of Berkeley FrameNet, especially Full Text Annotation 
+- Read about Semantics “Semantics Boot Camp” written by Elizabeth Coppock & Lucas Champollion 
+- Read about MetaNet mentioned by Professor Torrent, especially the paper “Automatic metaphor detection using constructions and frames” (?) 
+- Read about Global FrameNet mentioned by Professor Torrent, especially the paper “The Multilingual FrameNet Shared Annotation Task: a Preliminary Report” 
+- Reflect about Xi Jing Ping’s speech video, which combined complicated visual and text to create FrameBlends, and as a great example of multimodal communication 
+- Read some important publications about multimodality, including 
+--“Tutorial on Multimodal Machine Learning” from ACL 2017
+-- “Multimodal Machine Learning: A Survey and Taxonomy” 
+-- “Multimodal Fusion for Multimedia Analysis: A Survey”
+-- “Deep Multimodal Learning: A survey on recent advances and trends” 
 
 
 Part 2: Re-thinking about the goal of this project 
