@@ -56,8 +56,9 @@ After studying and making the judgment of the complicated and massive informatio
 
 My plan for the following week(May 18 ~ May 24) shows as following: 
 
-- Test Semafor and Open Sesame
-- Choose the first dataset 
+
+- Choose the proper dataset from The UCLA NewsScape data from the gallina directory ( /mnt/rds/redhen/gallina/tv ) on CWRU HP
+- Implement Semafor and Open Sesame
 
 (This plan is not the most updated version by May 18 Monday. Still Editing) 
 
