@@ -59,6 +59,7 @@ My plan for the following week(May 18 ~ May 24) shows as following:
 
 - Choose the proper dataset from The UCLA NewsScape data from the gallina directory ( /mnt/rds/redhen/gallina/tv ) on CWRU HPC
 - Implement Semafor and Open Sesame
+- Discuss the further research plan with mentors and others who may contribute helpful suggestions 
 
 #### Part 4: Study Materials
 My study materials and important website that may be helpful for other student who takes over this project: 
