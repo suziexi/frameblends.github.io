@@ -57,7 +57,7 @@ After studying and making the judgment of the complicated and massive informatio
 
 My plan for the following week(May 18 ~ May 24) shows as following: 
 
-- Choose the proper dataset from The UCLA NewsScape data from the gallina directory ( /mnt/rds/redhen/gallina/tv ) on CWRU HP
+- Choose the proper dataset from The UCLA NewsScape data from the gallina directory ( /mnt/rds/redhen/gallina/tv ) on CWRU HPC
 - Implement Semafor and Open Sesame
 
 
