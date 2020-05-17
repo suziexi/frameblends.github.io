@@ -32,11 +32,12 @@ After the initial meeting and the group meeting, I gain a more specific sense of
 
 #### Part 2: Re-thinking about the goal of this project 
 After the meeting, I reflect on Xi Jing Ping’s One Belt One Road speech as an example of multimodal communication. I have asked the question regarding different formats of data, such as visual and text, and their collaboration mechanism as the input of frame blends detection. I realize I asked a question about multimodal communication even before I know the definition of this concept, which is the essential part of Red Hen’s mission. Thus, I’m intensively reading important publications about multimodal communication besides semantics. Of course, I will focus more on semantics since I will begin with text right now. 
+
 This project is challenging yet inspiring; it’s related to cognitive science and the general humanities, and aims to offer a useful tool for human analysts. For such a complicated and large-scale project, as Professor Turner mentioned in the initial project meeting with mentors, it’s better to starts with simple and small thing that works, and then build on top of it. From the initial meeting, I summarize and break down the three main goals of functionalities in a progressing manner.
 
-Work with existed tools to detect frame blend and identify the flaws and improve it 
-Build an interactive system to manually enter text and frame, allow human experts labeling 
-Detect the communication about future as frame blends 
+- Work with existed tools to detect frame blend and identify the flaws and improve it 
+- Build an interactive system to manually enter text and frame, allow human experts labeling 
+- Detect the communication about future as frame blends 
 
 Additionally, I have some preliminary ideas about the interactive system for manually input the text and frame in the further research steps, which need to plan a comprehensive system of rules for entering data with restriction for merging the data to the original dataset. This may also need me to gain more background knowledge about cognitive science and semantics. 
 
