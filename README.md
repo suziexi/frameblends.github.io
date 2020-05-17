@@ -10,7 +10,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - May 13: Inital Meeting with Professor Turner 
 - May 14: Inital onboarding meeting with other GSoC members 
 
-###First Blog Report 
+### First Blog Report 
 
 ## Coding Period Before the First Evaluation 
 - June 1: 
