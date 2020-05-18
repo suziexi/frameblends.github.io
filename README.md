@@ -50,7 +50,7 @@ Additionally, I have some preliminary ideas about the interactive system for man
 However, I’m not sure which steps I can eventually accomplish during this summer, so I decide to start from the first step, “Detect frame blends.” After having enough confidence in this part, I may then begin to think about the next steps. Thus, I write the third part of this blog post to begin work on “Detect frame blends.”
 
 
-#### Part 3: Next Step to accomplish “Detect FrameBlends”  
+#### Part 3: Next step to accomplish “Detect FrameBlends”  
 After studying and making the judgment from the complicated and massive information, I realize there are a lot of skills and knowledge I do not have yet, but need to have in order to accomplish the goal of this project. Those not-yet-have but have-to-gain tasks are: 
 
 - Confirm proper dataset for training and testing from Red Hen data source 
