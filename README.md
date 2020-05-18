@@ -36,7 +36,7 @@ The following small tasks have been completed by May 18, Monday.
 - Read some important presentation and publications about multimodality, including “Tutorial on Multimodal Machine Learning” from ACL 2017, “Multimodal Machine Learning: A Survey and Taxonomy”, “Multimodal Fusion for Multimedia Analysis: A Survey”, and“Deep Multimodal Learning: A survey on recent advances and trends” 
 
 
-#### Part 2: Re-thinking about the goal of this project 
+#### Part 2: Rethinking about the goal 
 After the project meeting, I reflect on Xi Jing Ping’s One Belt One Road speech as an example of multimodal communication, which requires multimodal machine learning to analyze it. I have asked the question regarding different formats of data, such as visual and text, and their collaboration mechanism as the input data of frame blends detection. I realize I asked a question about multimodal communication even before I know the definition of this concept, which is the essential part of Red Hen’s mission. Thus, I’m intensively reading important publications about multimodal communication besides semantics. Of course, I will focus more on semantics since I will begin with text right now. 
 
 This project is challenging yet inspiring; it’s related to cognitive science and the general disciplines of humanities, and aims to offer a useful tool for human analysts. For such a complicated and large-scale project, as Professor Turner mentioned in the initial project meeting with mentors, it’s better to starts with simple and small thing that works, and then build on top of it. From the initial meeting, I summarize and break down the three main goals of functionalities in a progressing manner.
@@ -68,7 +68,7 @@ My tentative plan for the following week(May 18 ~ May 24) shows as following(Sti
 - Discuss the updated research plan and questions with mentors and others who may contribute helpful suggestions 
 
 
-#### Part 4: Study Materials
+#### Part 4: Study materials
 My study materials and important websites that may be helpful for other student who takes over this project: 
 
 - [Semafor github page](https://github.com/Noahs-ARK/semafor)
