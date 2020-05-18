@@ -12,7 +12,6 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - May 14: Inital onboarding meeting with other GSoC members 
 
 ### Blog Report #1 (May 11 ~ May 17)
-(This report is not the most updated version by May 18 Monday. Still Editing) 
 
 #### Part 1: Completed preparation tasks 
 After the initial meeting and the group meeting, I gain a more specific sense of the plan, path, and the direction of this project, and also feel supported by a professional and welcoming community. After the meeting, I review both my notes and the video recording of my initial project meeting. I summarized the tasks and finished some part of it, while also setting a clear timeline of studying, planning, and coding. I reach out to the student who had worked on the FrameNet project last year(Yong) from LinkedIn and got his email address. Thus, I will email him to clarify some questions about FrameNet 1.7 and Semafor this week. I have reached out to Professor Whitehouse and Dr. Uhrig, who expressed interest in my project and proposal during the group meeting. Based on the rich amount of information I received, I list some small tasks before setting a timeline and a detailed plan. The following small tasks have been completed by May 18, Monday. 
@@ -56,12 +55,12 @@ After studying and making the judgment of the complicated and massive informatio
 - Gain more background knowledge about semantics, syntax, and multimodality 
 
 
-My plan for the following week(May 18 ~ May 24) shows as following: 
+My plan for the following week(May 18 ~ May 24) shows as following(Still updating): 
 
 - Choose the proper dataset from The UCLA NewsScape data from the gallina directory ( /mnt/rds/redhen/gallina/tv ) on CWRU HPC
 - Implement Semafor and Open Sesame
 - Discuss the further research plan with mentors and others who may contribute helpful suggestions 
-(Still updating) 
+
 
 #### Part 4: Study Materials
 My study materials and important website that may be helpful for other student who takes over this project: 
