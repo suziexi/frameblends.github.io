@@ -55,7 +55,7 @@ After studying and making the judgment of the complicated and massive informatio
 - Gain more background knowledge about semantics, syntax, and multimodality 
 
 
-My plan for the following week(May 18 ~ May 24) shows as following(Still updating): 
+My tentative plan for the following week(May 18 ~ May 24) shows as following(Still updating): 
 
 - Choose the proper dataset from The UCLA NewsScape data from the gallina directory ( /mnt/rds/redhen/gallina/tv ) on CWRU HPC
 - Implement Semafor and Open Sesame
