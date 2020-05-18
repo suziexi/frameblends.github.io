@@ -23,8 +23,8 @@ After the initial meeting and the group meeting, I gain a more specific sense of
 (e.g., How to search for linguistic patterns) 
 - Explore the data from Gallina Home, be familiar with the different file extension, especially seg file 
 - Be familiar with the existed frame detecting tools, such as Semafor and Open-Sesame packages (These are the packages to decide which is the best candidate for tagging) 
-- Follow the instruction from Semafor by Dipanjan Das(https://github.com/Noahs-ARK/semafor/blob/master/training/README.md) to train FrameNet 1.5 full text annotations data 
 - Study the mechanism of Berkeley FrameNet, especially Full Text Annotation 
+- Follow the instruction from Semafor by Dipanjan Das(https://github.com/Noahs-ARK/semafor/blob/master/training/README.md) to train FrameNet 1.5 full text annotations data 
 - Read about Semantics “Semantics Boot Camp” written by Elizabeth Coppock & Lucas Champollion 
 - Read about MetaNet mentioned by Professor Torrent, especially the paper “Automatic metaphor detection using constructions and frames” (?) 
 - Read about Global FrameNet mentioned by Professor Torrent, especially the paper “The Multilingual FrameNet Shared Annotation Task: a Preliminary Report” 
