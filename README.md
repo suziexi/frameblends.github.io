@@ -82,9 +82,9 @@ and a Syntactic Scaffold](https://arxiv.org/pdf/1706.09528.pdf)
 
 - [FrameNet II: Extended Theory and Practice](https://framenet2.icsi.berkeley.edu/docs/r1.5/book.pdf)
 
-- [Semantics](http://eecoppock.info/bootcamp/semantics-boot-camp.pdf)
+- [Invitation to Formal Semantics(Invitation to Formal Semantics)](http://eecoppock.info/bootcamp/semantics-boot-camp.pdf)
 
-- [Syntax](https://www.ling.upenn.edu/~beatrice/syntax-textbook/)
+- [The syntax of natural language:An online introduction using the Trees program](https://www.ling.upenn.edu/~beatrice/syntax-textbook/)
 
 - [Tutorial on Multimodal Machine Learning](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf)
 
