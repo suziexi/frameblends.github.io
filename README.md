@@ -72,9 +72,11 @@ My tentative plan for the following week(May 18 ~ May 24) shows as following(Sti
 My study materials and important websites that may be helpful for other student who takes over this project: 
 
 - [Semafor github page](https://github.com/Noahs-ARK/semafor)
+
 - [SEMAFOR 1.0: A Probabilistic Frame-Semantic Parser](https://www.cs.cmu.edu/~nschneid/dscs-tr.pdf)
 
 - [Open Sesame github page](https://github.com/swabhs/open-sesame)
+
 - [Frame-Semantic Parsing with Softmax-Margin Segmental RNNs
 and a Syntactic Scaffold](https://arxiv.org/pdf/1706.09528.pdf)
 
