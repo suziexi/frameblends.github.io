@@ -69,7 +69,7 @@ My tentative plan for the following week(May 18 ~ May 24) shows as following(Sti
 
 
 #### Part 4: Study Materials
-My study materials and important website that may be helpful for other student who takes over this project: 
+My study materials and important websites that may be helpful for other student who takes over this project: 
 
 - Semafor 
 https://github.com/Noahs-ARK/semafor
