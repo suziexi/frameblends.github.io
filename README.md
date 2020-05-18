@@ -88,6 +88,8 @@ and a Syntactic Scaffold](https://arxiv.org/pdf/1706.09528.pdf)
 
 - [The syntax of natural language:An online introduction using the Trees program](https://www.ling.upenn.edu/~beatrice/syntax-textbook/)
 
+- [Treebanks: Building and Using Parsed Corpora](https://link.springer.com/content/pdf/10.1007%2F978-94-010-0201-1.pdf)
+
 - [Tutorial on Multimodal Machine Learning](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf)
 
 - [Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/abs/1705.09406)
