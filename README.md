@@ -54,7 +54,7 @@ However, I’m not sure which steps I can eventually accomplish during this summ
 After studying and making the judgment from the complicated and massive information, I realize there are a lot of skills and knowledge I do not have yet, but need to have in order to accomplish the goal of this project. Those not-yet-have but have-to-gain tasks are: 
 
 - Confirm proper dataset for training and testing from Red Hen data source 
-- Deeply understand and are able to test the existed tools for detecting FrameBlends, mainly including Semafor and Open Sesame   
+- Deeply understand and are able to test the existed tools for detecting FrameBlends, mainly including Semafor and Open-Sesame   
 - Try to test out the bias and flaws of the existed tools and explore the underlying reasons  
 - Try to improve the system based on the flaws of the existed tools, or create functional integration 
 - Gain more linguistics background knowledge about Semantics and Syntax  
@@ -64,7 +64,7 @@ After studying and making the judgment from the complicated and massive informat
 My tentative plan for the following week(May 18 ~ May 24) shows as following(Still updating): 
 
 - Choose the proper dataset from The UCLA NewsScape data from the gallina directory ( /mnt/rds/redhen/gallina/tv ) on CWRU HPC
-- Implement and test Semafor and Open Sesame to the chosen dataset 
+- Implement and test Semafor and Open-Sesame to the chosen dataset 
 - Discuss the updated research plan and questions with mentors and others who may contribute helpful suggestions 
 
 
@@ -75,7 +75,7 @@ My study materials and important websites that may be helpful for other student 
 
 - [SEMAFOR 1.0: A Probabilistic Frame-Semantic Parser](https://www.cs.cmu.edu/~nschneid/dscs-tr.pdf)
 
-- [Open Sesame github page](https://github.com/swabhs/open-sesame)
+- [Open-Sesame github page](https://github.com/swabhs/open-sesame)
 
 - [Frame-Semantic Parsing with Softmax-Margin Segmental RNNs
 and a Syntactic Scaffold](https://arxiv.org/pdf/1706.09528.pdf)
