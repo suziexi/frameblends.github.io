@@ -36,9 +36,9 @@ After the meeting, I reflect on Xi Jing Ping’s One Belt One Road speech as an 
 
 This project is challenging yet inspiring; it’s related to cognitive science and the general humanities, and aims to offer a useful tool for human analysts. For such a complicated and large-scale project, as Professor Turner mentioned in the initial project meeting with mentors, it’s better to starts with simple and small thing that works, and then build on top of it. From the initial meeting, I summarize and break down the three main goals of functionalities in a progressing manner.
 
-- Work with existed tools to detect frame blend and identify the flaws and improve it 
+- Work with existed tools to detect frame blends, identify the flaws or the biased parts, integrate or improve them
 - Build an interactive system to manually enter text and frame, allow human experts labeling 
-- Detect the communication about future as frame blends 
+- Detect the communication about future based on detection of frame blends 
 
 Additionally, I have some preliminary ideas about the interactive system for manually input the text and frame in the further research steps, which need to plan a comprehensive system of rules for entering data with restriction for merging the data to the original dataset. This may also need me to gain more background knowledge about cognitive science and semantics. 
 
@@ -46,20 +46,21 @@ However, I’m not sure which steps I can eventually accomplish during this summ
 
 
 #### Part 3: Next Step to accomplish “Detect FrameBlends”  
-After studying and making the judgment of the complicated and massive information, I realize there are a lot of skills and knowledge I do not yet have, but need to have to accomplish this goal of the project. Those not-yet-have but have-to-gain tasks are: 
+After studying and making the judgment from the complicated and massive information, I realize there are a lot of skills and knowledge I do not have yet, but need to have in order to accomplish the goal of this project. Those not-yet-have but have-to-gain tasks are: 
 
 - Confirm proper dataset for training and testing from Red Hen data source 
-- Understand and test the existed tools for detecting FrameBlends, including Semafor and Open Sesame   
-- Try to test out the bias and flaws of the existed tools and explore the underlying reasons. 
+- Deeply understand and are able to test the existed tools for detecting FrameBlends, mainly including Semafor and Open Sesame   
+- Try to test out the bias and flaws of the existed tools and explore the underlying reasons  
 - Try to improve the system based on the flaws of the existed tools, or create functional integration 
-- Gain more background knowledge about semantics, syntax, and multimodality 
+- Gain more linguistics background knowledge about Semantics and Syntax  
+- Gain a solid understanding about multimodality and multimodal machine learning 
 
 
 My tentative plan for the following week(May 18 ~ May 24) shows as following(Still updating): 
 
 - Choose the proper dataset from The UCLA NewsScape data from the gallina directory ( /mnt/rds/redhen/gallina/tv ) on CWRU HPC
-- Implement Semafor and Open Sesame
-- Discuss the further research plan with mentors and others who may contribute helpful suggestions 
+- Implement and test Semafor and Open Sesame to the chosen dataset 
+- Discuss the updated research plan and questions with mentors and others who may contribute helpful suggestions 
 
 
 #### Part 4: Study Materials
