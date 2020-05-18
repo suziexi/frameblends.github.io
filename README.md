@@ -2,19 +2,21 @@
 
 This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 with Red Hen Lab
 
-### Description 
-- For the project idea "AI Recognizers of Frame Blends, Especially in Conversations About the Future," my proposal aims to create a semantic tagging system to classify different time frames in the conversation in the form of text or video record. Ideally, this system can classify the situation where human beings imagine a future by blending the present with incompatible frames. The project will be based on some of the existed algorithms, frameworks, and databases, and also choose and integrate them carefully to accomplish the goal. This system will also create an interactive system that allows humans to manually mark the false positive and true negative and keep re-training the data with such human manipulation. In each round of training, the system will consider the manual marks, and eventually reach the stage when the system is able to mark the desired portion as accurate as possible. When the source data is large enough, the tagging system of the blended frame also allows us to make the unnoticed connections between current and past social conditions to gain inspiration to solve the real-world problem, or provide more evidence to the anthropological and historical studies.
+### Project Description 
+- For the project idea "AI Recognizers of Frame Blends, Especially in Conversations About the Future," my proposal aims to build a semantic tagging system to detect different time frames in the conversation in the form of text or video record. Ideally, this system can classify the situation where human beings imagine a future by blending the present with incompatible frames. The project will be based on some of the existed algorithms, frameworks, and databases, and also choose and integrate them carefully to accomplish the goal. If possible, this project also aims to create an interactive system that allows humans to manually mark the false positive and true negative and keep re-training the data with such manipulation by human experts. In each round of training, the system will consider the manual marks, and eventually reach the stage when the system is able to mark the desired portion as accurate as possible. When the source data is large enough, the tagging system of the blended frame also allows us to make the unnoticed connections between current and past social conditions to gain inspiration to solve the real-world problem, or provide more evidence to the anthropological and historical studies.
 
 ## Community Boning Period 
 ### Preparation Stage
-- May 10: Finish general set-up process 
-- May 13: Inital Meeting with Professor Turner 
-- May 14: Inital onboarding meeting with other GSoC members 
+- May 10: Finish general set-up process of CWRU HPC and gallina home 
+- May 13: Inital project meeting with Professor Turner and other mentors 
+- May 14: Inital onboarding group meeting with other 2020 GSoC members 
 
 ### Blog Report #1 (May 11 ~ May 17)
 
 #### Part 1: Completed preparation tasks 
-After the initial meeting and the group meeting, I gain a more specific sense of the plan, path, and the direction of this project, and also feel supported by a professional and welcoming community. After the meeting, I review both my notes and the video recording of my initial project meeting. I summarized the tasks and finished some part of it, while also setting a clear timeline of studying, planning, and coding. I reach out to the student who had worked on the FrameNet project last year(Yong) from LinkedIn and got his email address. Thus, I will email him to clarify some questions about FrameNet 1.7 and Semafor this week. I have reached out to Professor Whitehouse and Dr. Uhrig, who expressed interest in my project and proposal during the group meeting. Based on the rich amount of information I received, I list some small tasks before setting a timeline and a detailed plan. 
+After the initial meeting and the group meeting, I gain a more specific sense of the plan, path, and the direction of this project, and also feel supported by a professional and welcoming community. After the meeting, I review both my notes and the video recording of my initial project meeting. I summarized the tasks and finished some part of it, while setting a clear timeline of studying, planning, and coding. 
+
+I also reach out to the student who had worked on the FrameNet project last year(Yong) from LinkedIn and got his email address. Thus, I can further email him to clarify some questions about FrameNet 1.7, Semafor and Open-Sesame in the following week. I have reached out to Professor Whitehouse and Dr. Uhrig, who expressed interest in my project and proposal during the group meeting. Based on the large amount of information I have received, I list and finish some small tasks before setting a detailed plan and the general project timeline. 
 
 The following small tasks have been completed by May 18, Monday. 
 
@@ -35,7 +37,7 @@ The following small tasks have been completed by May 18, Monday.
 
 
 #### Part 2: Re-thinking about the goal of this project 
-After the meeting, I reflect on Xi Jing Ping’s One Belt One Road speech as an example of multimodal communication, which requires multimodal machine learning to analyze it. I have asked the question regarding different formats of data, such as visual and text, and their collaboration mechanism as the input data of frame blends detection. I realize I asked a question about multimodal communication even before I know the definition of this concept, which is the essential part of Red Hen’s mission. Thus, I’m intensively reading important publications about multimodal communication besides semantics. Of course, I will focus more on semantics since I will begin with text right now. 
+After the project meeting, I reflect on Xi Jing Ping’s One Belt One Road speech as an example of multimodal communication, which requires multimodal machine learning to analyze it. I have asked the question regarding different formats of data, such as visual and text, and their collaboration mechanism as the input data of frame blends detection. I realize I asked a question about multimodal communication even before I know the definition of this concept, which is the essential part of Red Hen’s mission. Thus, I’m intensively reading important publications about multimodal communication besides semantics. Of course, I will focus more on semantics since I will begin with text right now. 
 
 This project is challenging yet inspiring; it’s related to cognitive science and the general disciplines of humanities, and aims to offer a useful tool for human analysts. For such a complicated and large-scale project, as Professor Turner mentioned in the initial project meeting with mentors, it’s better to starts with simple and small thing that works, and then build on top of it. From the initial meeting, I summarize and break down the three main goals of functionalities in a progressing manner.
 
@@ -69,12 +71,6 @@ My tentative plan for the following week(May 18 ~ May 24) shows as following(Sti
 #### Part 4: Study Materials
 My study materials and important website that may be helpful for other student who takes over this project: 
 
-- Semantics 
-http://eecoppock.info/bootcamp/semantics-boot-camp.pdf
-
-- Syntax 
-https://www.ling.upenn.edu/~beatrice/syntax-textbook/
-
 - Semafor 
 https://github.com/Noahs-ARK/semafor
 
@@ -86,6 +82,12 @@ https://framenet.icsi.berkeley.edu/fndrupal/fulltextIndex
 
 - FrameNet II: Extended Theory and Practice 
 https://framenet2.icsi.berkeley.edu/docs/r1.5/book.pdf
+
+- Semantics 
+http://eecoppock.info/bootcamp/semantics-boot-camp.pdf
+
+- Syntax 
+https://www.ling.upenn.edu/~beatrice/syntax-textbook/
 
 - Tutorial on Multimodal Machine Learning
 https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf
