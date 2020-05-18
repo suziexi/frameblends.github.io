@@ -71,35 +71,25 @@ My tentative plan for the following week(May 18 ~ May 24) shows as following(Sti
 #### Part 4: Study Materials
 My study materials and important websites that may be helpful for other student who takes over this project: 
 
-- Semafor 
-https://github.com/Noahs-ARK/semafor
+- [Semafor](https://github.com/Noahs-ARK/semafor)
 
-- Open Sesame 
-https://github.com/swabhs/open-sesame
+- [Open Sesame](https://github.com/swabhs/open-sesame)
 
-- FrameNet Full Text Annotation 
-https://framenet.icsi.berkeley.edu/fndrupal/fulltextIndex
+- [FrameNet Full Text Annotation](https://framenet.icsi.berkeley.edu/fndrupal/fulltextIndex) 
 
-- FrameNet II: Extended Theory and Practice 
-https://framenet2.icsi.berkeley.edu/docs/r1.5/book.pdf
+- [FrameNet II: Extended Theory and Practice](https://framenet2.icsi.berkeley.edu/docs/r1.5/book.pdf)
 
-- Semantics 
-http://eecoppock.info/bootcamp/semantics-boot-camp.pdf
+- [Semantics](http://eecoppock.info/bootcamp/semantics-boot-camp.pdf)
 
-- Syntax 
-https://www.ling.upenn.edu/~beatrice/syntax-textbook/
+- [Syntax](https://www.ling.upenn.edu/~beatrice/syntax-textbook/)
 
-- Tutorial on Multimodal Machine Learning
-https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf
+- [Tutorial on Multimodal Machine Learning](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf)
 
-- Multimodal Machine Learning: A Survey and Taxonomy
-https://arxiv.org/abs/1705.09406
+- [Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/abs/1705.09406)
 
-- Multimodal Fusion for Multimedia Analysis: A Survey
-https://link.springer.com/article/10.1007/s00530-010-0182-0
+- [Multimodal Fusion for Multimedia Analysis: A Survey](https://link.springer.com/article/10.1007/s00530-010-0182-0)
 
-- Deep Multimodal Learning: A survey on recent advances and trends
-https://ieeexplore.ieee.org/document/8103116
+- [Deep Multimodal Learning: A survey on recent advances and trends](https://ieeexplore.ieee.org/document/8103116)
 
 
 
