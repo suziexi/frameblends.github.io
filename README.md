@@ -53,7 +53,7 @@ After studying and making the judgment from the complicated and massive informat
 - Try to test out the bias and flaws of the existed tools and explore the underlying reasons  
 - Try to improve the system based on the flaws of the existed tools, or create functional integration 
 - Gain more linguistics background knowledge about Semantics and Syntax  
-- Gain a solid understanding about multimodality and multimodal machine learning 
+- Gain a solid understanding about multimodal communication and multimodal machine learning 
 
 
 My tentative plan for the following week(May 18 ~ May 24) shows as following(Still updating): 
