@@ -121,7 +121,7 @@ This is my daily progress report for this week (May 18 ~ May 24)
 - Receive data from FrameNet 
 - Set up next week’s meeting with mentors 
 - Learn to use Sling Python API, such as Frame stores, record files, parising 
-- Study semantics knowledge using “Semantic Boot Camp” 
+- Study semantics knowledge using [Semantics Boot Camp](http://eecoppock.info/bootcamp/semantics-boot-camp.pdf) 
 
 #### Tuesday: 
 - Study the implementation of  FrameNet Full Text Annotation data 
@@ -129,7 +129,7 @@ This is my daily progress report for this week (May 18 ~ May 24)
 
 #### Friday: 
 - Write the comparison report of Semafor, Open Sesame and Sling 
-- Study the hand-annotating mechanism of FrameNet Full Text Annotation 
+- Study the hand-annotating mechanism of [FrameNet Full Text Annotation](https://framenet.icsi.berkeley.edu/fndrupal/fulltextIndex) 
 
 #### Weekly Summary: 
 In this week, I begin to investigate the existing frame analysing systems, including Semafor, Open Sesame, and Sling, request and study the hand annotation data from FrameNet. I also write a report for comparing the existing frame analysing tools. On the theoretical level, I’m reflecting on the mechanism for detecting frame blends, and will discuss my questions and thoughts in the mentor meeting next week. 
