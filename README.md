@@ -99,6 +99,42 @@ and a Syntactic Scaffold](https://arxiv.org/pdf/1706.09528.pdf)
 - [Deep Multimodal Learning: A survey on recent advances and trends](https://ieeexplore.ieee.org/document/8103116)
 
 
+### Blog Report #2 (May 18~ May 24)
+This is my daily progress report for this week (May 18 ~ May 24) 
+
+
+#### Monday: 
+- Read Yong’s blog for last year’s FrameNet Project 
+- Listen to recording for the initial project meeting
+- Investigate about Open-Sesame and Semafor github repo and the corresponding paper 
+
+#### Tuesday: 
+- Send email to Professor Torrent-- receive suggestion about checking Sling and Daisy 
+- Send Yong an email to confirm the implementation of Semafor and Open-Sesame  
+- Request FrameNet 1.7 Data 
+- Study Berkeley Full Text Annotation 
+- Study [Sling github repo](https://github.com/google/sling): install Sling, request and download linguistic data consortium data for Sling, train the pre-trained model  
+- Read paper [“Attention Is All You Need”](https://arxiv.org/abs/1706.03762)  
+
+#### Wednesday: 
+- Attend Professor Turner’s zoom seminar 
+- Receive data from FrameNet 
+- Set up next week’s meeting with mentors 
+- Learn to use Sling Python API, such as Frame stores, record files, parising 
+- Study semantics knowledge using “Semantic Boot Camp” 
+
+#### Tuesday: 
+- Study the implementation of  FrameNet Full Text Annotation data 
+- Read paper [SLING: A framework for frame semantic parsing](https://arxiv.org/abs/1710.07032) 
+
+#### Friday: 
+- Write the comparison report of Semafor, Open Sesame and Sling 
+- Study the hand-annotating mechanism of FrameNet Full Text Annotation 
+
+#### Weekly Summary: 
+In this week, I begin to investigate the existing frame analysing systems, including Semafor, Open Sesame, and Sling, request and study the hand annotation data from FrameNet. I also write a report for comparing the existing frame analysing tools. On the theoretical level, I’m reflecting on the mechanism for detecting frame blends, and will discuss my questions and thoughts in the mentor meeting next week. 
+
+
 
 ## Coding Period Before the First Evaluation 
 - June 1: 
