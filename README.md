@@ -130,6 +130,7 @@ This is my daily progress report for this week (May 18 ~ May 24):
 #### Friday: 
 - Write the comparison report of Semafor, Open Sesame and Sling(Will be uploaded later) 
 - Study the hand-annotating mechanism of [FrameNet Full Text Annotation](https://framenet.icsi.berkeley.edu/fndrupal/fulltextIndex) 
+- Read [Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00163) published by Computational Linguistics 
 
 #### Weekly Summary 
 In this week, I begin to investigate the existing frame analysing systems, including Semafor, Open Sesame, and Sling, request and study the hand annotation data from FrameNet. I also write a report for comparing the existing frame analysing tools. On the theoretical level, I’m reflecting on the mechanism for detecting frame blends, and will discuss my questions and thoughts in the mentor meeting next week. 
