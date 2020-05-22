@@ -128,7 +128,7 @@ This is my daily progress report for this week (May 18 ~ May 24):
 - Read paper [SLING: A framework for frame semantic parsing](https://arxiv.org/abs/1710.07032) 
 
 #### Friday: 
-- Write the comparison report of Semafor, Open Sesame and Sling(Will be uploaded later) 
+- Write the comparison report of Semafor, Open Sesame and Sling(tentative)
 - Study the hand-annotating mechanism of [FrameNet Full Text Annotation](https://framenet.icsi.berkeley.edu/fndrupal/fulltextIndex) 
 - Read [Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00163) published by Computational Linguistics 
 
