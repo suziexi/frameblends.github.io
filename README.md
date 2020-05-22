@@ -114,7 +114,7 @@ This is my daily progress report for this week (May 18 ~ May 24)
 - Request FrameNet 1.7 Data 
 - Study Berkeley Full Text Annotation 
 - Study [Sling github repo](https://github.com/google/sling): install Sling, request and download linguistic data consortium data for Sling, train the pre-trained model  
-- Read paper [“Attention Is All You Need”](https://arxiv.org/abs/1706.03762)  
+- Read paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762)  
 
 #### Wednesday: 
 - Attend Professor Turner’s zoom seminar 
