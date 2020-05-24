@@ -142,6 +142,7 @@ There are three types of defined frame-to-frame Relations:
 - Subframe: subevent of complex events, sometimes using suggestive names like “scenario” for frames with subframe structure 
 
 **Coreness and FE-to-FE relations within a Frame** 
+
 Three types of FE(frame element): 
 - Core: core FEs are essential to the definition of the frame itself, such as the SPEAKER and ADDRESSEE in the Statement frame 
 - Peripheral: Peripheral FEs are those which are inherently part of the situation, but not central to the definition of the frame.  
