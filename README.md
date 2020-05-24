@@ -196,6 +196,9 @@ References:
 #### Comparing The Existing Frame Analysing Tools
 ##### Semafor 
 
+![An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.](https://github.com/suziexi/frameblends.github.io/blob/master/semafor.png)
+*An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.* 
+
 - Two-stage statistical model that takes lexical targets in their sentinel contexts and predicts frame-semantic structures 
 - [Greedy beam search algorithm](https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f)for argument identification that avoids illegal argument overlap 
 - Error analysis pertaining to the dual decomposition argument identification algorithm
@@ -213,9 +216,6 @@ Dataset:
 - [SemEval 2007 structure extraction task](http://ufal.mff.cuni.cz/acl2007/archive/workshops/ws01/program.shtml)
 - FrameNet 1.5 
 
-
-![An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.](https://github.com/suziexi/frameblends.github.io/blob/master/semafor.png)
-*An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.* 
 
 **Issue of Semi-Supervised Lexicon Expansion**  
 The poor performance of our frame identification model on targets that were unseen as LUs in FrameNet or as instances in training data, and briefly describe a technique for expanding the set of lexical units with potential semantic frames that they can associate with. 
