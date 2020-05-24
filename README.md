@@ -243,7 +243,7 @@ Dataset:
 - FrameNet 1.5 
 - OneNotes
 
-![result](images/result.png| width=100px )
+![result](images/result.png){:height="36px" width="36px"}
 
 References: 
 - [Frame-Semantic Parsing with Softmax-Margin Segmental RNNs and a Syntactic Scaffold](https://arxiv.org/abs/1706.09528)				
