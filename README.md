@@ -106,7 +106,7 @@ and a Syntactic Scaffold](https://arxiv.org/pdf/1706.09528.pdf)
 
 ### Blog Report 2 
 #### Weekly Summary (May 18 ~ May 24) 
-In this week, I begin to investigate the existing frame analysing systems, including Semafor, Open Sesame, and Sling, request and study the hand-annotation data（Full Text Annotation) from FrameNet. I also conduct a report for [comparing the existing frame analysing tools](#comparing-the-existing-frame-analysing-tools). On the theoretical level, I’m reflecting on the mechanism for detecting frame blends, and will discuss my questions and thoughts in the mentor meeting next week. 
+In this week, I begin to investigate the existing frame analysing systems, including Semafor, open-SESAME, and Sling, request and study the hand-annotation data（Full Text Annotation) from FrameNet. I also conduct a report for [comparing the existing frame analysing tools](#comparing-the-existing-frame-analysing-tools). On the theoretical level, I’m reflecting on the mechanism for detecting frame blends, and will discuss my questions and thoughts in the mentor meeting next week. 
 
 The following is my daily progress report for this week (May 18 ~ May 24):  
 
@@ -194,7 +194,7 @@ References:
 
 #### Sunday 
 #### Comparing The Existing Frame Analysing Tools
-##### Semafor 
+**Semafor** 
 
 ![An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.](images/semafor.png) 
 *An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.* 
@@ -229,10 +229,26 @@ More techniques required:
 References: 
 [Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00163)
 
+**open-SESAME** 
+Open-sesame add syntax through a traditional pipeline as well as a multi-task learning approach which uses a syntactic scaffold only at training time.  They conclude that scaffolding is a cheaper alternative to syntactic features since it does not require syntactic parsing at train or at test time. 		
 
+Thie model's main contributions: 
+1. Build the first syntax free frame-semantic argument identification system, introducing the softmax-margin SegRNN. The model using a similar dynamic programming algorithm as zeroth-order semi-Markov dynamic program.  
 
+2. Using the basic model as a foundation to test whether incorporating syntax is still worthwhile. They find that this syntactic pipelining approach improves over both our syntax-free model and achieves state-of-the- art performance.They use a pipelined approach and a syntactic scaffolding approach  
+- Syntactic features: Phrase-structure features,  Dependency features 
+- Syntactic scaffolding: Syntactic scaffolds avoid expensive syntactic processing at run- time, only making use of a treebank during training, through a multitask objective. This method minimizes an auxiliary supervised loss function, derived from a syntactic treebank.  
+			
+Dataset:  
+FrameNet 1.5 
+OneNotes
 
-
+References: 
+[Frame-Semantic Parsing with Softmax-Margin Segmental RNNs and a Syntactic Scaffold](https://arxiv.org/abs/1706.09528)				
+				
+[Syntactic Scaffolds for Semantic Structures](https://arxiv.org/pdf/1808.10485.pdf)
+ 	 		
+			
 ## Coding Period Before the First Evaluation 
 - June 1: 
  
