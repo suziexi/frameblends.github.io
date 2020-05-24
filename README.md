@@ -132,7 +132,7 @@ This is my daily progress report for this week (May 18 ~ May 24):
 - Study the hand-annotating mechanism of [FrameNet Full Text Annotation](https://framenet.icsi.berkeley.edu/fndrupal/fulltextIndex) 
 - Read [Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00163) published by Computational Linguistics  
 
-#### Saturary: FrameNet, especially Full Text Annotation  
+#### Saturary: Take Notes about FrameNet data, especially Full Text Annotation  
 **Frame-to-Frame Relations** 
 > With the move to a relational database, we suddenly found ourselves able to represent such frame-to- frame relations, and hence, to make lots of decisions about just what sort of frame hierarchy we wanted, and how it could best be represented. 
 
