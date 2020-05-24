@@ -273,6 +273,7 @@ The transition system simultaneously builds the frame graph and maintains the at
 - Elaborate 
 		 	 	 						
 For example, the sentence “John hit the ball” generates the following transition sequence: 
+![example](images/sling-example.png) 
 
 Dataset: 
 OntoNotes 
