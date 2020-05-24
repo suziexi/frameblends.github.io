@@ -196,7 +196,7 @@ References:
 #### Comparing The Existing Frame Analysing Tools
 ##### Semafor 
 
-![An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.](https://github.com/suziexi/frameblends.github.io/blob/master/images/semafor) 
+![An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.](images/semafor.png) 
 *An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.* 
 
 - Two-stage statistical model that takes lexical targets in their sentinel contexts and predicts frame-semantic structures 
