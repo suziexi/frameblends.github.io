@@ -231,10 +231,10 @@ References:
 
 **open-SESAME** 
 Open-sesame add syntax through a traditional pipeline as well as a multi-task learning approach which uses a syntactic scaffold only at training time.  They conclude that scaffolding is a cheaper alternative to syntactic features since it does not require syntactic parsing at train or at test time. 		
-
+![OS](images/open sesame.png)
 Thie model's main contributions: 
 1. Build the first syntax free frame-semantic argument identification system, introducing the softmax-margin SegRNN. The model using a similar dynamic programming algorithm as zeroth-order semi-Markov dynamic program.  
-
+![Formula](images/open-sesame-fml.png) 
 2. Using the basic model as a foundation to test whether incorporating syntax is still worthwhile. They find that this syntactic pipelining approach improves over both our syntax-free model and achieves state-of-the- art performance. 
 - Syntactic features: Phrase-structure features,  Dependency features 
 - Syntactic scaffolding: Syntactic scaffolds avoid expensive syntactic processing at run- time, only making use of a treebank during training, through a multitask objective. This method minimizes an auxiliary supervised loss function, derived from a syntactic treebank.  
@@ -242,6 +242,8 @@ Thie model's main contributions:
 Dataset:  
 FrameNet 1.5 
 OneNotes
+
+![result](images/result.png) 
 
 References: 
 - [Frame-Semantic Parsing with Softmax-Margin Segmental RNNs and a Syntactic Scaffold](https://arxiv.org/abs/1706.09528)				
