@@ -132,8 +132,62 @@ This is my daily progress report for this week (May 18 ~ May 24):
 - Study the hand-annotating mechanism of [FrameNet Full Text Annotation](https://framenet.icsi.berkeley.edu/fndrupal/fulltextIndex) 
 - Read [Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00163) published by Computational Linguistics  
 
+#### Weekend 
+
+About FrameNet, especially Full Text Annotation  
+**Frame-to-Frame Relations** 
+> With the move to a relational database, we suddenly found ourselves able to represent such frame-to- frame relations, and hence, to make lots of decisions about just what sort of frame hierarchy we wanted, and how it could best be represented. 
+
+There are three types of defined frame-to-frame Relations: 	
+- Inheritance proper: all of the types and structure of the parent frame were inherited 
+- Using relation: only a subset of the parent FEs were inherited 
+- Subframe: subevent of complex events, sometimes using suggestive names like “scenario” for frames with subframe structure 
+
+**Coreness and FE-to-FE relations within a Frame** 
+Three types of FE(frame element): 
+- Core: core FEs are essential to the definition of the frame itself, such as the SPEAKER and ADDRESSEE in the Statement frame 
+- Peripheral: Peripheral FEs are those which are inherently part of the situation, but not central to the definition of the frame.  
+- Extra-thematic: Extra-thematic FEs situate an event against a backdrop of another state of affairs, either or an actual event or state of the same type or by evoking a larger frame within which the reporte state of affairs is embedded. 
+
+Non-core types(maybe incomplete): 
+- Co-participant 
+- Duration
+- Iteration 
+- Manner 
+- Means 
+- Place 
+- Time 
+- Purpose 
+- Degree 
+- Frequency 
+
+**About Full Text Annotation* * 
+
+For Full Text Annotation, every frame evoking element would be marked as a target, and that most (or all) of the rest of the text would be labeled as frame elements; an opera- tion which would compose the meanings of these labelings would produce at least a good start on a deep representation of the meaning of the text.   
+				
+Full Text Annotation means to annotate all the frame-evolving words in running text. This annotation method is different because: 
+- Contrary to usual practice of selecting relatively short, clear sentences. Full Text Annotation have to annotate sentences that are longer and have more complex  structure. 
+- Contrary to common LUs by virtue of their appearance in the text that we happen not to have covered. In long-run, this will improve FrameNet’s coverage of the general vocabulary. 
+
+Full Text Annotation requires a major efforts to define new frames.It was  estimate that they need roughly 250 new frames to cover the first 125 sen- tences of text, which amounts to 50% increase in our total frame inventory. 
+				
+			
+Current Full Text Annotation includes: 
+- American National Corpus Texts
+- AQUAINT Knowledge-Based Evaluation Texts
+- LUCorpus-v0.3
+- Miscellaneous
+- Texts from Nuclear Threat Initiative website, created by Center for Non-Proliferation Studies
+- Texts from WikiMedia--WikiNews and Wikipedia
+- Wall Street Journal Texts from the PropBank Project
+
+References: 
+[FrameNet Data Full Text Index](https://framenet.icsi.berkeley.edu/fndrupal/fulltextIndex) 
+[The Evolution of FrameNet Annotation Practices](http://lrec.elra.info/proceedings/lrec2004/ws/ws17.pdf#page=5) 
+
+
 #### Weekly Summary 
-In this week, I begin to investigate the existing frame analysing systems, including Semafor, Open Sesame, and Sling, request and study the hand annotation data from FrameNet. I also write a report for comparing the existing frame analysing tools. On the theoretical level, I’m reflecting on the mechanism for detecting frame blends, and will discuss my questions and thoughts in the mentor meeting next week. 
+In this week, I begin to investigate the existing frame analysing systems, including Semafor, Open Sesame, and Sling, request and study the hand-annotation data（Full Text Annotation) from FrameNet. I also write a report for comparing the existing frame analysing tools. On the theoretical level, I’m reflecting on the mechanism for detecting frame blends, and will discuss my questions and thoughts in the mentor meeting next week. 
 
 
 
