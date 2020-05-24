@@ -193,7 +193,7 @@ References:
 - [The Evolution of FrameNet Annotation Practices](http://lrec.elra.info/proceedings/lrec2004/ws/ws17.pdf#page=5) 
 
 #### Sunday 
-Comparing The Existing Frame Analysing Tools
+#### Comparing The Existing Frame Analysing Tools
 
 ## Coding Period Before the First Evaluation 
 - June 1: 
