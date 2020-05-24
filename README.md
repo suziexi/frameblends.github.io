@@ -6,7 +6,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - For the project idea "AI Recognizers of Frame Blends, Especially in Conversations About the Future," my proposal aims to build a semantic tagging system to detect different time frames in the conversation in the form of text or video record. Ideally, this system can classify the situation where human beings imagine a future by blending the present with incompatible frames. The project will be based on some of the existed algorithms, frameworks, and databases, and also choose and integrate them carefully to accomplish the goal. If possible, this project also aims to create an interactive system that allows humans to manually mark the false positive and true negative and keep re-training the data with such manipulation by human experts. In each round of training, the system will consider the manual marks, and eventually reach the stage when the system is able to mark the desired portion as accurate as possible. When the source data is large enough, the tagging system of the blended frame also allows us to make the unnoticed connections between current and past social conditions to gain inspiration to solve the real-world problem, or provide more evidence to the anthropological and historical studies.
 
 ### Index 
-[Blog Report 1](#blog-report-1) 
+[Blog Report 1](#blog-report-1) (May 11 ~ May 17) 
 ## Community Bonding Period 
 ### Preparation Stage
 - May 10: Finish general set-up process of CWRU HPC and gallina home 
@@ -14,7 +14,6 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - May 14: Inital onboarding group meeting with other 2020 GSoC members 
 
 ### Blog Report 1 
-(May 11 ~ May 17) 
 
 #### Part 1: Completed preparation tasks 
 After the initial meeting and the group meeting, I gain a more specific sense of the plan, path, and the direction of this project, and also feel supported by a professional and welcoming community. After the meeting, I review both my notes and the video recording of my initial project meeting. I summarized the tasks and finished some part of it, while setting a clear timeline of studying, planning, and coding. 
