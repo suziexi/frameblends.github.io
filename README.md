@@ -7,8 +7,8 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 
 ### Index 
 #### Community Bonding Period 
-[Blog Report 1](#blog-report-1) (May 11 ~ May 17) 
-[Blog Report 2](#blog-report-2) (May 18 ~ May 24)
+- [Blog Report 1](#blog-report-1) (May 11 ~ May 17) 
+- [Blog Report 2](#blog-report-2) (May 18 ~ May 24)
 
 ## Community Bonding Period 
 ### Preparation Stage
