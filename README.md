@@ -192,7 +192,7 @@ References:
 - [The Evolution of FrameNet Annotation Practices](http://lrec.elra.info/proceedings/lrec2004/ws/ws17.pdf#page=5) 
 
 #### Sunday 
-Semafor, Open Sesame, and Sling
+Semafor-Open-Sesame-and-Sling
 
 
 ## Coding Period Before the First Evaluation 
