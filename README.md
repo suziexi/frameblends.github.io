@@ -209,6 +209,7 @@ Three Subproblems:
 - Frame identification: given targets, the parser then identifies their frames 
 - Argument identification: choosing which of each FEs(Frame Elements) roles are filled, and by which parts of sentence
 
+There are two stages: 
 - First stage: disambiguates the target in context to a semantic frame 
 - Second stage: finds the target’s locally expressed semantic argument 
 
