@@ -205,9 +205,9 @@ References:
 - Uses graph-based semi-supervised learning to better generalize to new predicates 
 
 Three Subproblems: 
-- Target identification 
-- Frame identification 
-- Argument identification  
+- Target identification: deciding which word tokens (Lexical Units) evoke frames in a given sentence
+- Frame identification: given targets, the parser then identifies their frames 
+- Argument identification: choosing which of each FEs(Frame Elements) roles are filled, and by which parts of sentence
 
 - First stage: disambiguates the target in context to a semantic frame 
 - Second stage: finds the target’s locally expressed semantic argument 
@@ -219,7 +219,12 @@ Dataset:
 
 **Issue of Semi-Supervised Lexicon Expansion**  
 The poor performance of our frame identification model on targets that were unseen as LUs in FrameNet or as instances in training data, and briefly describe a technique for expanding the set of lexical units with potential semantic frames that they can associate with. 
-	
+
+More techniques required: 
+- Latent variable modeling 
+- Semi-supervised learning 
+- Joint interface 
+
 References: 
 [Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00163)
 
