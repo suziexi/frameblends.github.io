@@ -6,7 +6,10 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - For the project idea "AI Recognizers of Frame Blends, Especially in Conversations About the Future," my proposal aims to build a semantic tagging system to detect different time frames in the conversation in the form of text or video record. Ideally, this system can classify the situation where human beings imagine a future by blending the present with incompatible frames. The project will be based on some of the existed algorithms, frameworks, and databases, and also choose and integrate them carefully to accomplish the goal. If possible, this project also aims to create an interactive system that allows humans to manually mark the false positive and true negative and keep re-training the data with such manipulation by human experts. In each round of training, the system will consider the manual marks, and eventually reach the stage when the system is able to mark the desired portion as accurate as possible. When the source data is large enough, the tagging system of the blended frame also allows us to make the unnoticed connections between current and past social conditions to gain inspiration to solve the real-world problem, or provide more evidence to the anthropological and historical studies.
 
 ### Index 
+#### Community Bonding Period 
 [Blog Report 1](#blog-report-1) (May 11 ~ May 17) 
+[Blog Report 2](#blog-report-2) (May 18 ~ May 24)
+
 ## Community Bonding Period 
 ### Preparation Stage
 - May 10: Finish general set-up process of CWRU HPC and gallina home 
@@ -101,7 +104,7 @@ and a Syntactic Scaffold](https://arxiv.org/pdf/1706.09528.pdf)
 - [Deep Multimodal Learning: A survey on recent advances and trends](https://ieeexplore.ieee.org/document/8103116)
 
 
-### Blog Report #2 (May 18~ May 24)
+### Blog Report 2 
 #### Weekly Summary 
 In this week, I begin to investigate the existing frame analysing systems, including Semafor, Open Sesame, and Sling, request and study the hand-annotation data（Full Text Annotation) from FrameNet. I also conduct a report for comparing the existing frame analysing tools. On the theoretical level, I’m reflecting on the mechanism for detecting frame blends, and will discuss my questions and thoughts in the mentor meeting next week. 
 
