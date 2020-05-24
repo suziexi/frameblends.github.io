@@ -132,9 +132,7 @@ This is my daily progress report for this week (May 18 ~ May 24):
 - Study the hand-annotating mechanism of [FrameNet Full Text Annotation](https://framenet.icsi.berkeley.edu/fndrupal/fulltextIndex) 
 - Read [Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00163) published by Computational Linguistics  
 
-#### Weekend 
-
-About FrameNet, especially Full Text Annotation  
+#### Saturary: FrameNet, especially Full Text Annotation  
 **Frame-to-Frame Relations** 
 > With the move to a relational database, we suddenly found ourselves able to represent such frame-to- frame relations, and hence, to make lots of decisions about just what sort of frame hierarchy we wanted, and how it could best be represented. 
 
@@ -161,7 +159,7 @@ Non-core types(maybe incomplete):
 - Degree 
 - Frequency 
 
-**About Full Text Annotation* * 
+**About Full Text Annotation** 
 
 For Full Text Annotation, every frame evoking element would be marked as a target, and that most (or all) of the rest of the text would be labeled as frame elements; an opera- tion which would compose the meanings of these labelings would produce at least a good start on a deep representation of the meaning of the text.   
 				
