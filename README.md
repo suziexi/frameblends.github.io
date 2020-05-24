@@ -201,8 +201,6 @@ References:
 - Error analysis pertaining to the dual decomposition argument identification algorithm
 - Uses graph-based semi-supervised learning to better generalize to new predicates 
 
-![An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.](https://github.com/suziexi/frameblends.github.io/blob/master/semafor.png)
-
 Three Subproblems: 
 - Target identification 
 - Frame identification 
@@ -215,6 +213,9 @@ Dataset:
 - [SemEval 2007 structure extraction task](http://ufal.mff.cuni.cz/acl2007/archive/workshops/ws01/program.shtml)
 - FrameNet 1.5 
 
+
+![An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.](https://github.com/suziexi/frameblends.github.io/blob/master/semafor.png)
+*An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.* 
 
 **Issue of Semi-Supervised Lexicon Expansion**  
 The poor performance of our frame identification model on targets that were unseen as LUs in FrameNet or as instances in training data, and briefly describe a technique for expanding the set of lexical units with potential semantic frames that they can associate with. 
