@@ -201,7 +201,7 @@ References:
 - Error analysis pertaining to the dual decomposition argument identification algorithm
 - Uses graph-based semi-supervised learning to better generalize to new predicates 
 
-![An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.](https://drive.google.com/file/d/1GYl9FOe6aVpx_Isr0WOYyIhuNgE21z1M/view?usp=sharing)
+![An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.](https://github.com/suziexi/frameblends.github.io/blob/master/semafor.png)
 
 Three Subproblems: 
 - Target identification 
