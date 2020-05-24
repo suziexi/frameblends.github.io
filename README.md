@@ -235,7 +235,7 @@ Open-sesame add syntax through a traditional pipeline as well as a multi-task le
 Thie model's main contributions: 
 1. Build the first syntax free frame-semantic argument identification system, introducing the softmax-margin SegRNN. The model using a similar dynamic programming algorithm as zeroth-order semi-Markov dynamic program.  
 
-2. Using the basic model as a foundation to test whether incorporating syntax is still worthwhile. They find that this syntactic pipelining approach improves over both our syntax-free model and achieves state-of-the- art performance.They use a pipelined approach and a syntactic scaffolding approach  
+2. Using the basic model as a foundation to test whether incorporating syntax is still worthwhile. They find that this syntactic pipelining approach improves over both our syntax-free model and achieves state-of-the- art performance. 
 - Syntactic features: Phrase-structure features,  Dependency features 
 - Syntactic scaffolding: Syntactic scaffolds avoid expensive syntactic processing at run- time, only making use of a treebank during training, through a multitask objective. This method minimizes an auxiliary supervised loss function, derived from a syntactic treebank.  
 			
@@ -244,9 +244,9 @@ FrameNet 1.5
 OneNotes
 
 References: 
-[Frame-Semantic Parsing with Softmax-Margin Segmental RNNs and a Syntactic Scaffold](https://arxiv.org/abs/1706.09528)				
+- [Frame-Semantic Parsing with Softmax-Margin Segmental RNNs and a Syntactic Scaffold](https://arxiv.org/abs/1706.09528)				
 				
-[Syntactic Scaffolds for Semantic Structures](https://arxiv.org/pdf/1808.10485.pdf)
+- [Syntactic Scaffolds for Semantic Structures](https://arxiv.org/pdf/1808.10485.pdf)
  	 		
 			
 ## Coding Period Before the First Evaluation 
