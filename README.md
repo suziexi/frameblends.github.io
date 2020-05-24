@@ -106,7 +106,7 @@ and a Syntactic Scaffold](https://arxiv.org/pdf/1706.09528.pdf)
 
 ### Blog Report 2 
 #### Weekly Summary 
-In this week, I begin to investigate the existing frame analysing systems, including Semafor, Open Sesame, and Sling, request and study the hand-annotation data（Full Text Annotation) from FrameNet. I also conduct a report for [comparing the existing frame analysing tools](Semafor, Open Sesame, and Sling). On the theoretical level, I’m reflecting on the mechanism for detecting frame blends, and will discuss my questions and thoughts in the mentor meeting next week. 
+In this week, I begin to investigate the existing frame analysing systems, including Semafor, Open Sesame, and Sling, request and study the hand-annotation data（Full Text Annotation) from FrameNet. I also conduct a report for [comparing the existing frame analysing tools](Semafor-Open-Sesame-and-Sling). On the theoretical level, I’m reflecting on the mechanism for detecting frame blends, and will discuss my questions and thoughts in the mentor meeting next week. 
 
 This is my daily progress report for this week (May 18 ~ May 24):  
 
