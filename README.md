@@ -141,7 +141,7 @@ This is my daily progress report for this week (May 18 ~ May 24):
 - Read [Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00163) published by Computational Linguistics  
 
 #### Saturday
-##### Take Notes about FrameNet data, especially Full Text Annotation  
+#### Take Notes about FrameNet data, especially Full Text Annotation  
 **Frame-to-Frame Relations** 
 > With the move to a relational database, we suddenly found ourselves able to represent such frame-to- frame relations, and hence, to make lots of decisions about just what sort of frame hierarchy we wanted, and how it could best be represented. 
 
@@ -195,6 +195,37 @@ References:
 
 #### Sunday 
 #### Comparing The Existing Frame Analysing Tools
+##### Semafor 
+
+- Two-stage statistical model that takes lexical targets in their sentinel contexts and predicts frame-semantic structures 
+- [Greedy beam search algorithm](https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f)for argument identification that avoids illegal argument overlap 
+- Error analysis pertaining to the dual decomposition argument identification algorithm
+- Uses graph-based semi-supervised learning to better generalize to new predicates 
+
+![An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.](https://drive.google.com/file/d/1GYl9FOe6aVpx_Isr0WOYyIhuNgE21z1M/view?usp=sharing)
+
+Three Subproblems: 
+- Target identification 
+- Frame identification 
+- Argument identification  
+
+- First stage: disambiguates the target in context to a semantic frame 
+- Second stage: finds the target’s locally expressed semantic argument 
+
+Dataset: 
+- [SemEval 2007 structure extraction task](http://ufal.mff.cuni.cz/acl2007/archive/workshops/ws01/program.shtml)
+- FrameNet 1.5 
+
+
+**Issue of Semi-Supervised Lexicon Expansion**  
+The poor performance of our frame identification model on targets that were unseen as LUs in FrameNet or as instances in training data, and briefly describe a technique for expanding the set of lexical units with potential semantic frames that they can associate with. 
+	
+Reference
+[Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00163)
+
+
+
+
 
 ## Coding Period Before the First Evaluation 
 - June 1: 
