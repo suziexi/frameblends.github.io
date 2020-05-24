@@ -240,10 +240,10 @@ Thie model's main contributions:
 - Syntactic scaffolding: Syntactic scaffolds avoid expensive syntactic processing at run- time, only making use of a treebank during training, through a multitask objective. This method minimizes an auxiliary supervised loss function, derived from a syntactic treebank.  
 			
 Dataset:  
-FrameNet 1.5 
-OneNotes
+- FrameNet 1.5 
+- OneNotes
 
-![result](images/result.png) 
+![result](images/result.png|width=100) 
 
 References: 
 - [Frame-Semantic Parsing with Softmax-Margin Segmental RNNs and a Syntactic Scaffold](https://arxiv.org/abs/1706.09528)				
