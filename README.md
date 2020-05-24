@@ -248,8 +248,39 @@ References:
 - [Frame-Semantic Parsing with Softmax-Margin Segmental RNNs and a Syntactic Scaffold](https://arxiv.org/abs/1706.09528)				
 				
 - [Syntactic Scaffolds for Semantic Structures](https://arxiv.org/pdf/1808.10485.pdf)
- 	 		
-			
+ 
+ **SLING** 
+
+- SLING supports general transition-based, neural-network parsing with bidirectional LSTM input encoding and a Transition Based Recurrent Unit (TBRU) for output decoding. The SLING parser exploits deep learning to by-pass those limitations of classic pipelined systems. It is a transition-based parser that outputs frame graphs directly without any intervening symbolic representation. This neural network architecture has been implemented using DRAGNN (Kong et al., 2017) and Tensor- Flow (Abadi et al., 2016). 
+
+#### SLING Frame 
+SLING frames live inside a frame store. A store is a container that tracks all the frames that have been allocated in the store, and serves as a memory allocation arena for them.  
+
+#### Attention 
+- The SLING parser is a kind of sequence-to- sequence model that first encodes the input text to- ken sequence with a bidirectional LSTM encoder and then runs the transition system on that encod- ing to produce a sequence of transitions. 			
+- Sequence-to-sequence models often rely on an “attention” mechanism to focus the decoder on the parts of the input most relevant for producing the next output symbol. But SLING uses the different attention mechanism, which focuses on parts of the frame representation that the parser has created so far, not the input tokens as is common for other sequence-to-sequence attention mechanism. 
+- Attention buffer is a ordered list of frames, and the order represents closeness ot the center of attention. The transition system maintains the attention buffer, bringing a frame to the front when the frame is evoked or re-evoked by the input text. 
+
+#### Transition System 
+The transition system simultaneously builds the frame graph and maintains the attention buffer by moving the frame involved involved in an action to the front of the attention buffer. The transition system consists of the following actions: 
+- Shift 
+- Evoke 
+- Refer 
+- Connect 
+- Assign 
+- Embed 
+- Elaborate 
+		 	 	 						
+For example, the sentence “John hit the ball” generates the following transition sequence: 
+
+Dataset: 
+OntoNotes 
+
+References: 
+- [SLING: A framework for frame semantic parsing](https://arxiv.org/abs/1710.07032) 
+- [JSON](https://www.json.org/json-en.html) 
+
+
 ## Coding Period Before the First Evaluation 
 - June 1: 
  
