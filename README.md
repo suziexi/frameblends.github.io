@@ -200,7 +200,7 @@ References:
 *An example sentence from the annotations released as part of FrameNet 1.5 with three targets marked in bold.* 
 
 - Two-stage statistical model that takes lexical targets in their sentinel contexts and predicts frame-semantic structures 
-- [Greedy beam search algorithm](https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f)for argument identification that avoids illegal argument overlap 
+- [Greedy beam search algorithm](https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f) for argument identification that avoids illegal argument overlap 
 - Error analysis pertaining to the dual decomposition argument identification algorithm
 - Uses graph-based semi-supervised learning to better generalize to new predicates 
 
