@@ -9,6 +9,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 ### Community Bonding Period 
 - [Blog Report 1](#blog-report-1) (May 11 ~ May 17) 
 - [Blog Report 2](#blog-report-2) (May 18 ~ May 24)
+- [Blog Report 3](#blog-report-3) (May 25 ~ May 31)
 
 ## Community Bonding Period 
 ### Preparation Stage
@@ -281,6 +282,9 @@ OntoNotes
 References: 
 - [SLING: A framework for frame semantic parsing](https://arxiv.org/abs/1710.07032) 
 - [JSON](https://www.json.org/json-en.html) 
+
+### Blog Report 3
+-[Suzie’s Thoughts about  Detecting Frame Blends_Presentation Slides](https://docs.google.com/presentation/d/1VhzfkSUXV7-C6Ndkds46igfntaJp04PoZ1McFF85ZDs/edit?usp=sharing)
 
 
 ## Coding Period Before the First Evaluation 
