@@ -284,8 +284,10 @@ References:
 - [JSON](https://www.json.org/json-en.html) 
 
 ### Blog Report 3
+This week, I mainly work on discussing the theoretical plan for detecting frame blends with mentors, exploring the implementation of SLING on CWRU HPC. 
+
 - [Suzie’s Thoughts about  Detecting Frame Blends_Presentation Slides](https://docs.google.com/presentation/d/1VhzfkSUXV7-C6Ndkds46igfntaJp04PoZ1McFF85ZDs/edit?usp=sharing)
-- Mentor meeting on Wed 
+- Mentor meeting on Wed, will update written report including feedback and detailed plan after the meeting 
 
 #### Notes about MetaNet
 
@@ -304,7 +306,6 @@ The three steps **”Metaphor construction → Metaphor extraction → Match con
 For the purely empirical, computational and  corpus-based method, instead of relying on intuitions about how a given target domain is metaphorically conceptualized, MetaNet explores the possibility to search a corpus and identify which source domain lemmas and frames are used, and with what relative frequency. 
 			
 It also points out the importance of frame-to-frame relation, because frame-frame relations define how one frame incorporates the semantics of another, metaphor-metaphor relations define the hierarchy of metaphors. 
-
 
 Example: 
 ![example](images/metanet.png) 
