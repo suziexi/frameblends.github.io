@@ -313,6 +313,9 @@ Example:
 References: 
 [MetaNet: Deep semantic automatic metaphor analysis](https://www.aclweb.org/anthology/W15-1405.pdf) 
 
+#### Additional Background Reading 
+[Words and Rules: The Ingredients of Language](https://monoskop.org/images/9/9e/Pinker_Steven_Words_and_rules_the_ingredients_of_language_1999.Pdf)
+
 ## Coding Period Before the First Evaluation 
 - June 1: 
  
