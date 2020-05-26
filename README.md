@@ -287,6 +287,30 @@ References:
 - [Suzie’s Thoughts about  Detecting Frame Blends_Presentation Slides](https://docs.google.com/presentation/d/1VhzfkSUXV7-C6Ndkds46igfntaJp04PoZ1McFF85ZDs/edit?usp=sharing)
 - Mentor meeting on Wed 
 
+#### Notes about MetaNet
+
+The MetaNet project mainly intends to include three parts: 
+
+- A repositor of formalized metaphors, frames, metaphor constructions, and metaphoric relational patterns 
+> Use a set of manually defined metaphoric constructional patterns to identify candidate expressions with explicitly realized potential target and source elements. 
+
+- An automated metaphor extraction system that utilizes information form the repo to identify expressions of metaphor in text and annotate them with semantic info 
+> Match the manually defined, constructional patterns with the actual corpus to detect metaphor”  
+
+- Computational tools to evaluate, analyze, and visualize the extracted metaphor data 
+
+The three steps **”Metaphor construction → Metaphor extraction → Match construction patterns”** compose the iterative analysis process in the MetaNet system. 
+
+For the purely empirical, computational and  corpus-based method, instead of relying on intuitions about how a given target domain is metaphorically conceptualized, MetaNet explores the possibility to search a corpus and identify which source domain lemmas and frames are used, and with what relative frequency. 
+			
+It also points out the importance of frame-to-frame relation, because frame-frame relations define how one frame incorporates the semantics of another, metaphor-metaphor relations define the hierarchy of metaphors. 
+
+
+Example: 
+![example](images/sling-example.png) 
+
+References: 
+[MetaNet: Deep semantic automatic metaphor analysis](https://www.aclweb.org/anthology/W15-1405.pdf) 
 
 ## Coding Period Before the First Evaluation 
 - June 1: 
