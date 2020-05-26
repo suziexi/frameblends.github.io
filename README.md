@@ -292,10 +292,10 @@ References:
 The MetaNet project mainly intends to include three parts: 
 
 - A repositor of formalized metaphors, frames, metaphor constructions, and metaphoric relational patterns 
-> Use a set of manually defined metaphoric constructional patterns to identify candidate expressions with explicitly realized potential target and source elements. 
+> Use a set of manually defined metaphoric constructional patterns to identify candidate expressions with explicitly realized potential target and source elements 
 
 - An automated metaphor extraction system that utilizes information form the repo to identify expressions of metaphor in text and annotate them with semantic info 
-> Match the manually defined, constructional patterns with the actual corpus to detect metaphor”  
+> Match the manually defined, constructional patterns with the actual corpus to detect metaphor   
 
 - Computational tools to evaluate, analyze, and visualize the extracted metaphor data 
 
@@ -307,7 +307,7 @@ It also points out the importance of frame-to-frame relation, because frame-fram
 
 
 Example: 
-![example](images/sling-example.png) 
+![example](images/metanet.png) 
 
 References: 
 [MetaNet: Deep semantic automatic metaphor analysis](https://www.aclweb.org/anthology/W15-1405.pdf) 
