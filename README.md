@@ -284,7 +284,8 @@ References:
 - [JSON](https://www.json.org/json-en.html) 
 
 ### Blog Report 3
--[Suzie’s Thoughts about  Detecting Frame Blends_Presentation Slides](https://docs.google.com/presentation/d/1VhzfkSUXV7-C6Ndkds46igfntaJp04PoZ1McFF85ZDs/edit?usp=sharing)
+- [Suzie’s Thoughts about  Detecting Frame Blends_Presentation Slides](https://docs.google.com/presentation/d/1VhzfkSUXV7-C6Ndkds46igfntaJp04PoZ1McFF85ZDs/edit?usp=sharing)
+- Mentor meeting on Wed 
 
 
 ## Coding Period Before the First Evaluation 
