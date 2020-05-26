@@ -301,7 +301,7 @@ The MetaNet project mainly intends to include three parts:
 
 - Computational tools to evaluate, analyze, and visualize the extracted metaphor data 
 
-The three steps **”Metaphor construction → Metaphor extraction → Match construction patterns”** compose the iterative analysis process in the MetaNet system. 
+The three steps **”Metaphor construction → Metaphor extraction → Match construction patterns”** compose the iterative analysis process in the MetaNet model. 
 
 For the purely empirical, computational and  corpus-based method, instead of relying on intuitions about how a given target domain is metaphorically conceptualized, MetaNet explores the possibility to search a corpus and identify which source domain lemmas and frames are used, and with what relative frequency. 
 			
