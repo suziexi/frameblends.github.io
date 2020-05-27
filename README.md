@@ -299,7 +299,7 @@ This section is a brief meeting minutes for today’s meeting with my own commen
 - Introduce PathLSTM 
 - About FrameNet Full Text Annotation: develop a algorithm that can detect frame blends based on the existing annotation 
 
-**My tasks to implement:** 
+My tasks to implement: 
 - Look closer to the Full Text Annotation, its structure, annotation rules and data choices 
 - Try to find tentative pattern of frame blends based the existing annotation of Full Text Annotation data 
 - Write down pseudo code about the tentative algorithm 
