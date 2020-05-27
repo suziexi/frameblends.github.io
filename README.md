@@ -287,7 +287,25 @@ References:
 This week, I mainly work on discussing the theoretical plan for detecting frame blends with mentors, exploring the implementation of SLING on CWRU HPC. 
 
 - [Suzie’s Thoughts about  Detecting Frame Blends_Presentation Slides](https://docs.google.com/presentation/d/1VhzfkSUXV7-C6Ndkds46igfntaJp04PoZ1McFF85ZDs/edit?usp=sharing)
-- Mentor meeting on Wed, will update written report including feedback and detailed plan after the meeting 
+- Mentor meeting on Wed 
+
+#### Mentor Meeting Minutes
+
+This section is a brief meeting minutes for today’s meeting with my own comments about further tasks. In this meeting, we mainly discuss the following issues: 
+
+- Two methods from MetaNet : The integration of both theory driven approach and computational approach 
+- The possibility of building interactive with incorporating manually marks in the future 
+- Discuss the implementation and theoretical aspect of SLING, and further possibility to set up SLING pipeline at CWRU HPC 
+- Introduce PathLSTM 
+- About FrameNet Full Text Annotation: develop a algorithm that can detect frame blends based on the existing annotation 
+
+**My tasks to implement:** 
+- Look closer to the Full Text Annotation, its structure, annotation rules and data choices 
+- Try to find tentative pattern of frame blends based the existing annotation of Full Text Annotation data 
+- Write down pseudo code about the tentative algorithm 
+- Make pseudo code into functional code
+- Test them to check whether it work 
+- Maybe include SLING later, and think about its implementation  
 
 #### Notes about MetaNet
 
