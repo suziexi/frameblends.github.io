@@ -11,6 +11,10 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - [Blog Report 2](#blog-report-2) (May 18 ~ May 24)
 - [Blog Report 3](#blog-report-3) (May 25 ~ May 31)
 
+## Coding Period Before the First Evaluation 
+- [Blog Report 4](#blog-report-4) (Jun 1 ~ Jun 7)
+
+
 ## Community Bonding Period 
 ### Preparation Stage
 - May 10: Finish general set-up process of CWRU HPC and gallina home 
@@ -337,5 +341,6 @@ References:
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) 
 
 ## Coding Period Before the First Evaluation 
-- June 1: 
+### Blog Report 4 
+
  
