@@ -146,6 +146,10 @@ The following is my daily progress report for this week (May 18 ~ May 24):
 
 #### Saturday
 #### Take Notes about FrameNet data, especially Full Text Annotation  
+The image below is the model of FrameNet architecture: 
+
+![framenet arch](images/FrameNet architecture.png) 
+
 **Frame-to-Frame Relations** 
 > With the move to a relational database, we suddenly found ourselves able to represent such frame-to- frame relations, and hence, to make lots of decisions about just what sort of frame hierarchy we wanted, and how it could best be represented. 
 
