@@ -359,5 +359,14 @@ Before the official coding period, I mainly finished the following preparation w
 7, Reach out mentors to discuss progress and further steps
 8. Carefully document my progress and used materials for the benefits of future members 
 
+Some thoughts: 
+
+I don’t need to focus on the general theory for detecting the frame blends, instead, I should start with actual text and annotation. Even if the algorithm may only apply for one article at first, then the second article, then the third article, then the algorithm can work to some extend. It’s important to find what pattern may be effective to a limited extent, and then increase this extent. At beginning, this task will be solely based on small dataset, depends on the existing annotation of some specific articles of FrameNet annotation. 
+
+1. Begin with American National Corpus Texts 
+2. Start with data-oriented methods 
+3. Based on the understanding about FrameNet structure and methods(according to the book  FrameNet II: Extended Theory and Practice) , especially how this full text annotation has been developed 
+4. Start with pseudo code to describe the noticed patterns 
+
 - Weekly plan based on the preparation work 
  
