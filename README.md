@@ -346,5 +346,7 @@ References:
 
 ## Coding Period Before the First Evaluation 
 ### Blog Report 4 
-
+- Finally, here comes to the big day:) 
+- Preparation summary before June 1 
+- Weekly plan based on the preparation work 
  
