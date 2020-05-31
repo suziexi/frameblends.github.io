@@ -347,6 +347,17 @@ References:
 ## Coding Period Before the First Evaluation 
 ### Blog Report 4 
 - The big day is finally here:)  
-- Preparation summary before June 1 
+- Preparation summary before June 1
+
+Before the official coding period, I mainly finished the following preparation works. 
+1. Gain a basic understanding of the data structure and annotation rules of FrameNet Full Text Annotation 
+2. Gain a basic understanding of the existing parsers, including Semafor, Open Sesame, and SLING 
+3. Gain a basic understanding of multimodal communication and multimodal machine learning 
+4. Make progress of understanding the general linguistics and semantics knowledge 
+5. Understand the MetaNet model 
+6. Gain some background knowledge on Natural Language Processing(NLP) 
+7, Reach out mentors to discuss progress and further steps
+8. Carefully document my progress and used materials for the benefits of future members 
+
 - Weekly plan based on the preparation work 
  
