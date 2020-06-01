@@ -374,7 +374,9 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 - Take Notes for Chapter 3 FrameNet Annotation of book FrameNet II: Extended Theory and Practice: [The link to Chapter 3 notes](https://docs.google.com/document/d/12AfZ-x-ISmDNrG85w1lzBtfvMpgnp1O5VJaKKGvm4yQ/edit?usp=sharing)
 - Explore metaphor frame-to-frame relation and metaphor labels in the Sentence layer
 ![frame2frame](images/frame2frame.png)
+- Write a documentation of sample frame XML data with remarks 
 - Set up python environment with xml related libraries at my local computer 
+- Upload full dataset to my github repo
 
 #### Tuesday
 - If possible, generate some pseudo code statement 
