@@ -365,12 +365,12 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 
 1. Begin with American National Corpus Texts 
 2. Start with data-oriented methods 
-3. Work ased on the understanding about FrameNet structure and methods(according to the book  FrameNet II: Extended Theory and Practice) , especially how this full text annotation has been developed 
+3. Work ased on the understanding about FrameNet structure and methods(according to the book  FrameNet II: Extended Theory and Practice), especially how this full text annotation has been developed 
 4. Start with pseudo code to describe the noticed patterns 
 
 #### Daily Plan and Progress 
 #### Monday 
-- Understanding xml dataset corresponding to the reader-friedly annotated text on the FrameNet website, and write a documentation explaining the xml data 
+- Understanding xml dataset corresponding to the reader-friendly annotated text on the FrameNet website, and write a documentation explaining the xml data 
 - Explore metaphor frame-to-frame relation and metaphor labels in the Sentence layer
 
 #### Tuesday
