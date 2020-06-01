@@ -376,7 +376,7 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 ![frame2frame](images/frame2frame.png)
 - Write a documentation of sample frame XML data with remarks 
 - Set up python environment with xml related libraries at my local computer 
-- Upload full dataset to my github repo
+- Upload full FrameNet 1.7 dataset to my github repo
 
 #### Tuesday
 - If possible, generate some pseudo code statement 
