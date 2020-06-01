@@ -370,9 +370,8 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 
 #### Daily Plan and Progress 
 #### Monday 
-- Understanding xml dataset corresponding to the reader-friendly annotated text on the FrameNet website, and write a documentation explaining the xml data 
-- [The link to Example of FrameNet Full Text Annotation XML data(with my annotation)](https://docs.google.com/document/d/17ET_VqXSuv0cA3Fhl2jCw6--xHbC2_WXOLEcfdXdfb8/edit?usp=sharing) 
-
+- Understanding xml dataset corresponding to the reader-friendly annotated text on the FrameNet website, and write a documentation explaining the xml data: [The link to Example of FrameNet Full Text Annotation XML data(with my annotation)](https://docs.google.com/document/d/17ET_VqXSuv0cA3Fhl2jCw6--xHbC2_WXOLEcfdXdfb8/edit?usp=sharing) 
+- Take Notes for Chapter 3 FrameNet Annotation of book FrameNet II: Extended Theory and Practice: [The Link to my notes](https://docs.google.com/document/d/12AfZ-x-ISmDNrG85w1lzBtfvMpgnp1O5VJaKKGvm4yQ/edit?usp=sharing)
 - Explore metaphor frame-to-frame relation and metaphor labels in the Sentence layer
 
 #### Tuesday
