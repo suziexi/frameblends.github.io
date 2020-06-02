@@ -378,7 +378,7 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 - Set up both python and java environment with xml related libraries at my local computer 
 
 #### Tuesday
-- Write a documentation of sample frame XML data with remarks
+- Write a documentation of [sample frame XML data with remarks](https://docs.google.com/document/d/11N3bvCaXFx2Y464BjfYQgMN_fuQnuDr0GCttXoCQ7yg/edit?usp=sharing)
 - Set the milestones for Coding Period Before the First Evaluation, and finish a slide for mentor meeting 
 
 
