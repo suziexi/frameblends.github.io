@@ -379,7 +379,9 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 
 #### Tuesday
 - Write a documentation of [sample frame XML data with remarks](https://docs.google.com/document/d/11N3bvCaXFx2Y464BjfYQgMN_fuQnuDr0GCttXoCQ7yg/edit?usp=sharing). The full data of this sample frame is [here](frames/Offenses.xml). 
-- Set the milestones for Coding Period Before the First Evaluation, and finish a slide for mentor meeting 
+- Finish a brief list of [phrase types](https://docs.google.com/document/d/1ia1emCGBrpnJYFO-uVBWnIvqgusFJScJfmuS-7jMrxM/edit?usp=sharing) for further reference 
+- Set the milestones for Coding Period Before the First Evaluation, and finish a presentation document for mentor meeting. The link to the document is [here](https://docs.google.com/document/d/1BFvhZTP7QuKECwhcvZ-mRKshXOoLRon3lTzoZJ_Ba2w/edit?usp=sharing). 
+
 
 
 #### Wednesday
