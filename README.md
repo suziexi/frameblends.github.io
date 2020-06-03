@@ -384,8 +384,8 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 
 
 #### Wednesday
-- Mentor meeting 
-- Read [Google Machine Learning Guide: Text classification](https://developers.google.com/machine-learning/guides/text-classification)  
+- Mentor meeting, the link to meeting notes is [here(updating)](https://docs.google.com/document/d/1zlVCWtRqyN1bubYT2Rn4YyNlgCirSy7-ZnBDxe0MKK0/edit?usp=sharing)
+- Read [Google Machine Learning Guide: Text classification](https://developers.google.com/machine-learning/guides/text-classification) 
 
 #### Thursday 
 
