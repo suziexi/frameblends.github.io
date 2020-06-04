@@ -370,7 +370,7 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 
 #### Daily Plan and Progress 
 #### Monday 
-- Understanding xml dataset corresponding to the reader-friendly annotated text on the FrameNet website, and write a documentation explaining the xml data: [The link to Sample of FrameNet Full Text Annotation XML data(with my remarks)](https://docs.google.com/document/d/17ET_VqXSuv0cA3Fhl2jCw6--xHbC2_WXOLEcfdXdfb8/edit?usp=sharing). The full data of this sample text is [here](fulltext/ANC__HistoryOfGreece.xml). 
+- Understanding xml dataset corresponding to the reader-friendly annotated text on the FrameNet website, and write a documentation explaining the xml data: [The link to Sample of FrameNet Full Text Annotation XML data(with my remarks)](https://docs.google.com/document/d/17ET_VqXSuv0cA3Fhl2jCw6--xHbC2_WXOLEcfdXdfb8/edit?usp=sharing).
 
 - Take Notes for Chapter 3 FrameNet Annotation of book FrameNet II: Extended Theory and Practice: [The link to Chapter 3 notes](https://docs.google.com/document/d/12AfZ-x-ISmDNrG85w1lzBtfvMpgnp1O5VJaKKGvm4yQ/edit?usp=sharing)
 - Explore metaphor frame-to-frame relation and metaphor labels in the Sentence layer
@@ -378,7 +378,7 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 - Set up both python and java environment with xml related libraries at my local computer 
 
 #### Tuesday
-- Write a documentation of [sample frame XML data with remarks](https://docs.google.com/document/d/11N3bvCaXFx2Y464BjfYQgMN_fuQnuDr0GCttXoCQ7yg/edit?usp=sharing). The full data of this sample frame is [here](frames/Offenses.xml). 
+- Write a documentation of [sample frame XML data with remarks](https://docs.google.com/document/d/11N3bvCaXFx2Y464BjfYQgMN_fuQnuDr0GCttXoCQ7yg/edit?usp=sharing). 
 - Finish a brief list of [phrase types](https://docs.google.com/document/d/1ia1emCGBrpnJYFO-uVBWnIvqgusFJScJfmuS-7jMrxM/edit?usp=sharing) for further reference.  
 - Set the milestones for Coding Period Before the First Evaluation, and finish a presentation document for mentor meeting. The link to the document is [here](https://docs.google.com/document/d/1BFvhZTP7QuKECwhcvZ-mRKshXOoLRon3lTzoZJ_Ba2w/edit?usp=sharing). 
 
