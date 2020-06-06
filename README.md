@@ -384,7 +384,7 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 
 
 #### Wednesday
-- Mentor meeting, the link to meeting notes is [here(updating)](https://docs.google.com/document/d/1zlVCWtRqyN1bubYT2Rn4YyNlgCirSy7-ZnBDxe0MKK0/edit?usp=sharing)
+- Mentor meeting, the link to meeting notes is [here](https://docs.google.com/document/d/1zlVCWtRqyN1bubYT2Rn4YyNlgCirSy7-ZnBDxe0MKK0/edit?usp=sharing)
 - Read [Google Machine Learning Guide: Text classification](https://developers.google.com/machine-learning/guides/text-classification) 
 
 #### Thursday 
@@ -397,3 +397,6 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 - Finish the Python code that can iterate through all Full-text annnotation data files, and can access a specific element of each data file 
 - Research about the Machine Learning algorithm and tools 
 
+#### Saturday
+- Continue the coding task 
+- Write [a brief notes about the algorithm(updating)](https://docs.google.com/document/d/1H6KiCZ5R1vy-HT6YC6kVealiCeY6_E8sSmMpfcpC3c4/edit?usp=sharing)  
