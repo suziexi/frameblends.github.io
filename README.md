@@ -388,7 +388,12 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 - Read [Google Machine Learning Guide: Text classification](https://developers.google.com/machine-learning/guides/text-classification) 
 
 #### Thursday 
-
+- Know how to access and manipulate xml data 
+- Write pseudo code and think about potential algorithm
 
 #### Friday 
+- Confirm the task before next Wed: build a Python algorithm to integrate frame data and full-text annotation data to detect the cases when a target is evoking a sentient frame, but the agent is not a person/do not obtain the features related to sentience. 
+- Manually found a list of frames raw data with "sentient" semType, output a list of frame names related to sentience
+- Finish the Python code that can iterate through all Full-text annnotation data files, and can access a specific element of each data file 
+- Research about the Machine Learning algorithm and tools 
 
