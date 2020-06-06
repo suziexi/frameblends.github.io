@@ -400,3 +400,7 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 #### Saturday
 - Continue the coding task 
 - Write [a brief notes about the algorithm(updating)](https://docs.google.com/document/d/1H6KiCZ5R1vy-HT6YC6kVealiCeY6_E8sSmMpfcpC3c4/edit?usp=sharing)  
+- Get familiar with NLP ML model following the instructions from the posts below: 
+- - NLP Text Classification Tutorial: https://www.toptal.com/machine-learning/nlp-tutorial-text-classification
+- - Flair Library: https://www.analyticsvidhya.com/blog/2019/02/flair-nlp-library-python/
+
