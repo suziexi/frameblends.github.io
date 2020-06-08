@@ -404,3 +404,6 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 	- NLP Text Classification Tutorial: https://www.toptal.com/machine-learning/nlp-tutorial-text-classification
 	- Flair Library: https://www.analyticsvidhya.com/blog/2019/02/flair-nlp-library-python/
 
+#### Sunday 
+- Finish the first version of Python algorithm, send to mentors and receive feedback 
+- Study on [Red Hen data format](https://sites.google.com/site/distributedlittleredhen/home/the-cognitive-core-research-topics-in-red-hen/red-hen-data-format) 
