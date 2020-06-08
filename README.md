@@ -11,7 +11,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - [Blog Report 2](#blog-report-2) (May 18 ~ May 24)
 - [Blog Report 3](#blog-report-3) (May 25 ~ May 31)
 
-## Coding Period Before the First Evaluation 
+### Coding Period Before the First Evaluation 
 - [Blog Report 4](#blog-report-4) (Jun 1 ~ Jun 7)
 - [Blog Report 5](#blog-report-5) (Jun 8 ~ Jun 14)
 
