@@ -13,6 +13,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 
 ## Coding Period Before the First Evaluation 
 - [Blog Report 4](#blog-report-4) (Jun 1 ~ Jun 7)
+- [Blog Report 5](#blog-report-5) (Jun 8 ~ Jun 14)
 
 
 ## Community Bonding Period 
@@ -407,3 +408,5 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 #### Sunday 
 - Finish the first version of Python algorithm, send to mentors and receive feedback 
 - Study on [Red Hen data format](https://sites.google.com/site/distributedlittleredhen/home/the-cognitive-core-research-topics-in-red-hen/red-hen-data-format) 
+
+### Blog Report 5 
