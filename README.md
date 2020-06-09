@@ -419,7 +419,7 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 - Finish the function of detecting the same clause which marked for multiple frames as target, based on the orgianl Python code 
 - Attend International FrameNet Workshop 
 - Write a report for tomorrow's mentor meeting 
-- Read about [NLTK](https://www.nltk.org/book/)
+- Read about [NLTK](https://www.nltk.org/book/), and [NLTK framenet HOWTO](http://www.nltk.org/howto/framenet.html)
 
 #### Wednesday
 - Mentor meeting 
