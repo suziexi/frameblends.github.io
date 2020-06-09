@@ -414,3 +414,11 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 - Begin working on .seg files process, met some problem about encoding them 
 - Work on detecting the caeses when multiple frames were evoked by the same target(FrameNet 1.7 .xml data)  
 - Research about ML model 
+
+#### Tuesday
+- Finish the function of detecting the same clause which marked for multiple frames as target, based on the orgianl Python code 
+- Attend International FrameNet Workshop 
+- Write a report for tomorrow's mentor meeting 
+
+#### Wednesday
+- Mentor meeting 
