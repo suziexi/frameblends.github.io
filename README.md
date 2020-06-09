@@ -410,3 +410,7 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 - Study on [Red Hen data format](https://sites.google.com/site/distributedlittleredhen/home/the-cognitive-core-research-topics-in-red-hen/red-hen-data-format) 
 
 ### Blog Report 5 
+#### Monday 
+- Begin working on .seg files process, met some problem about encoding them 
+- Work on detecting the caeses when multiple frames were evoked by the same target(FrameNet 1.7 .xml data)  
+- Research about ML model 
