@@ -423,4 +423,4 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 - Find [The NLTK FrameNet API](https://arxiv.org/abs/1703.07438) 
 
 #### Wednesday
-- Mentor meeting 
+- Mentor meeting, [my slides](https://docs.google.com/presentation/d/1byo7uo20lFHw-u9snI1JrY4fdtS_0ot7G89So9RjNkE/edit?usp=sharing) 
