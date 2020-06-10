@@ -420,6 +420,7 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 - Attend International FrameNet Workshop 
 - Write a report for tomorrow's mentor meeting 
 - Read about [NLTK](https://www.nltk.org/book/), and [NLTK framenet HOWTO](http://www.nltk.org/howto/framenet.html)
+- Find [The NLTK FrameNet API](https://arxiv.org/abs/1703.07438) 
 
 #### Wednesday
 - Mentor meeting 
