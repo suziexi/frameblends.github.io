@@ -136,7 +136,7 @@ The following is my daily progress report for this week (May 18 ~ May 24):
 - Learn to use Sling Python API, such as Frame stores, record files, parising 
 - Study semantics knowledge using [Semantics Boot Camp](http://eecoppock.info/bootcamp/semantics-boot-camp.pdf) 
 
-#### Tuesday 
+#### Thursday
 - Study the implementation of  FrameNet Full Text Annotation data 
 - Read paper [SLING: A framework for frame semantic parsing](https://arxiv.org/abs/1710.07032) 
 
@@ -424,3 +424,11 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 
 #### Wednesday
 - Mentor meeting, [my slides](https://docs.google.com/presentation/d/1byo7uo20lFHw-u9snI1JrY4fdtS_0ot7G89So9RjNkE/edit?usp=sharing) 
+- Confirm the goal for the next few days: work with NLTK FrameNet Python Library to finish the frameblends tagging for full-text annotation data as soon as possible 
+
+#### Thursday 
+- Work with NLTK FrameNet Python Library, integrate with current code 
+- Aim to create the frameblends tagging for full-text annotation data
+
+#### Friday
+
