@@ -431,4 +431,9 @@ I don’t need to focus on the general theory for detecting the frame blends, in
 - Aim to create the frameblends tagging for full-text annotation data
 
 #### Friday
+Confirm four functions to achieve in the next few days: 
+- Detect the conflict of verb and noun, carrying on from the sentiment task 
+- Dectect existing metaphor labels 
+- Detect the cases when one sentence including more than one time/location clauses 
+- Add FBL('Frame Blends') tag to the proper places in the annotation set, with proper parameters
 
