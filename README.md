@@ -14,6 +14,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 ### Coding Period Before the First Evaluation 
 - [Blog Report 4](#blog-report-4) (Jun 1 ~ Jun 7)
 - [Blog Report 5](#blog-report-5) (Jun 8 ~ Jun 14)
+- [Blog Report 6](#blog-report-6) (Jun 15 ~ Jun 21)
 
 
 ## Community Bonding Period 
@@ -437,3 +438,7 @@ Confirm four functions to achieve in the next few days:
 - Detect the cases when one sentence including more than one time/location clauses 
 - Add FBL('Frame Blends') tag to the proper places in the annotation set, with proper parameters
 
+### Blog Report 6 
+#### Monday 
+- Carry on from the method of sentiment expression detection, try to expand such method to a more general sense of verb/noun conflict in order to detect frame blends 
+- Begin with Penn Treebank tagging in full-text annotation data; this is a [reference](http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/PennTreebankConstituents.html) to understand the label in full-text annotation 
