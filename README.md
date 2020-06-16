@@ -445,5 +445,6 @@ Confirm four functions to achieve in the next few days:
 
 #### Tuesday
 - For Wed Mentor meeting, [my slides(still updating)](https://docs.google.com/presentation/d/1LhUB1xCewOYDIpC_I1EAObRT0vJue7BvwLjQIyF7ZpQ/edit?usp=sharing) 
+- For uploaded code, please see my [repo](https://github.com/suziexi/2020GSoC_FrameBlends) 
 
 #### Wednesday
