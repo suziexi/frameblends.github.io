@@ -444,6 +444,6 @@ Confirm four functions to achieve in the next few days:
 - Begin with Penn Treebank tagging in full-text annotation data; this is a [reference](http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/PennTreebankConstituents.html) to understand the label in full-text annotation 
 
 #### Tuesday
-- For Wed Mentor meeting, [my slides(still updating](https://docs.google.com/presentation/d/1LhUB1xCewOYDIpC_I1EAObRT0vJue7BvwLjQIyF7ZpQ/edit?usp=sharing) 
+- For Wed Mentor meeting, [my slides(still updating)](https://docs.google.com/presentation/d/1LhUB1xCewOYDIpC_I1EAObRT0vJue7BvwLjQIyF7ZpQ/edit?usp=sharing) 
 
 #### Wednesday
