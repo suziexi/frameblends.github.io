@@ -442,3 +442,8 @@ Confirm four functions to achieve in the next few days:
 #### Monday 
 - Carry on from the method of sentiment expression detection, try to expand such method to a more general sense of verb/noun conflict in order to detect frame blends 
 - Begin with Penn Treebank tagging in full-text annotation data; this is a [reference](http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/PennTreebankConstituents.html) to understand the label in full-text annotation 
+
+#### Tuesday
+- For Wed Mentor meeting, [my slides(still updating](https://docs.google.com/presentation/d/1LhUB1xCewOYDIpC_I1EAObRT0vJue7BvwLjQIyF7ZpQ/edit?usp=sharing) 
+
+#### Wednesday
