@@ -471,4 +471,9 @@ Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:
 #### Saturday
 - Do the reading list above 
 - Work on the coding of noun-verb conflict
+- Word2Vec 
 - Progress on HPC pipeline 
+
+#### Sunday 
+- Word embedding and Machine Learning approach, [my planing notes](https://docs.google.com/document/d/1JuRr0fsh6mJdpGv63o_utFsGJo5CrFljB8YQ406a62Q/edit?usp=sharing)
+
