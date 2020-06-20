@@ -448,3 +448,9 @@ Confirm four functions to achieve in the next few days:
 - For uploaded code, please see [my repo](https://github.com/suziexi/2020GSoC_FrameBlends) 
 
 #### Wednesday
+- Mentor meeting 
+- Confirm four aspects of tasks: 
+-- HPC Galina pipeline 
+-- Verb noun conflict 
+-- Semantic ontology 
+-- ML 
