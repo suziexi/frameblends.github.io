@@ -456,7 +456,7 @@ Confirm four functions to achieve in the next few days:
 - Progress on ML prep and HPC pipeline 
 
 #### Friday 
-- Confirm reading list for each aspects of tasks: 
+- Confirm the reading list for each aspects of tasks: 
 1. Noun-Verb 
 - [Metaphor Identification Using Verb and Noun Clustering by Ekaterina Shutova, Lin Sun and Anna Korhonen](https://pdfs.semanticscholar.org/3788/297715225f81ec1ee2718be23e237384f375.pdf) 
 - [Phrase-Level Metaphor Identification using Distributed Representations of Word Meaning by Omnia Zayed, John P. McCrae, Paul Buitelaar](https://www.aclweb.org/anthology/W18-0910.pdf) 
@@ -469,5 +469,6 @@ Robert Munro] (https://www.manning.com/books/human-in-the-loop-machine-learning#
 - [Building a Neural Semantic Parser from a Domain Ontology by Jianpeng Cheng, Siva Reddy and Mirella Lapata](https://arxiv.org/pdf/1812.10037.pdf) 
 
 #### Saturday
-- Work on the reading list 
-- Do the coding for noun-verb con
+- Do the reading list above 
+- Work on the coding of noun-verb conflict
+- Progress on HPC pipeline 
