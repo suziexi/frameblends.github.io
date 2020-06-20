@@ -15,6 +15,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - [Blog Report 4](#blog-report-4) (Jun 1 ~ Jun 7)
 - [Blog Report 5](#blog-report-5) (Jun 8 ~ Jun 14)
 - [Blog Report 6](#blog-report-6) (Jun 15 ~ Jun 21)
+- [Blog Report 7](#blog-report-7) (Jun 22 ~ Jun 28)
 
 
 ## Community Bonding Period 
@@ -471,9 +472,12 @@ Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:
 #### Saturday
 - Do the reading list above 
 - Work on the coding of noun-verb conflict
-- Word2Vec 
+- [Word2Vec](https://github.com/dav/word2vec) 
 - Progress on HPC pipeline 
 
 #### Sunday 
-- Word embedding and Machine Learning approach, [my planing notes](https://docs.google.com/document/d/1JuRr0fsh6mJdpGv63o_utFsGJo5CrFljB8YQ406a62Q/edit?usp=sharing)
+- Word embedding and Machine Learning approach, [my planing notes is here](https://docs.google.com/document/d/1JuRr0fsh6mJdpGv63o_utFsGJo5CrFljB8YQ406a62Q/edit?usp=sharing). I think it's a feasible point to put semantic cluster, noun-verb conflict, and even machine learning approach together 
+
+### Blog Report 7 
+#### Monday 
 
