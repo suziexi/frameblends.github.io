@@ -462,7 +462,7 @@ Confirm four functions to achieve in the next few days:
 - [Phrase-Level Metaphor Identification using Distributed Representations of Word Meaning by Omnia Zayed, John P. McCrae, Paul Buitelaar](https://www.aclweb.org/anthology/W18-0910.pdf) 
 2. ML
 - [Human-in-the-Loop Machine Learning: Active learning, annotation, and human-computer interaction by 
-Robert Munro] (https://www.manning.com/books/human-in-the-loop-machine-learning#:~:text=%E2%80%9CHuman%2Din%2Dthe%2D,%2C%20machine%20performance%2C%20or%20both.) (This book is recommended by Dr Hale) 
+Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:~:text=%E2%80%9CHuman%2Din%2Dthe%2D,%2C%20machine%20performance%2C%20or%20both.) (This book is recommended by Dr Hale) 
 3. Semantic ontology
 - [Parsing Software Requirements with an Ontology-based Semantic Role Labeler by Michael Roth and Ewan Klein](https://www.aclweb.org/anthology/W15-0403.pdf) 
 - [Structured Composition of Semantic Vectors by Stephen Wu and William Schuler](https://www.aclweb.org/anthology/W11-0131.pdf) 
