@@ -484,9 +484,9 @@ Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:
 - Update python code from my github repo to /mnt/rds/redhen/gallina/Singularity/frameblends/fn_code on gallina
 - Create a test set at /mnt/rds/redhen/gallina/Singularity/frameblends/tv_data, and begin working on making .fbl files
 - Explore the implementation of Word2vec word embedding and begin building the model with semantic cluster: 
- - [https://radimrehurek.com/gensim/models/word2vec.html](https://radimrehurek.com/gensim/models/word2vec.html) 
- - [https://github.com/tmikolov/word2vec](https://github.com/tmikolov/word2vec)
- - [http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/](http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/)
-- Work on [Wed meeting slides(still updating)](https://docs.google.com/presentation/d/1vIqpOKCOG7X6C3QvQn80Z_5d-z8cmTEkTgFv8q0EivY/edit?usp=sharing) 
+1. [https://radimrehurek.com/gensim/models/word2vec.html](https://radimrehurek.com/gensim/models/word2vec.html) 
+2. [https://github.com/tmikolov/word2vec](https://github.com/tmikolov/word2vec)
+3. [http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/](http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/)
+- Begin working on [Wed meeting slides(still updating)](https://docs.google.com/presentation/d/1vIqpOKCOG7X6C3QvQn80Z_5d-z8cmTEkTgFv8q0EivY/edit?usp=sharing) 
 
 
