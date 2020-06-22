@@ -480,5 +480,5 @@ Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:
 
 ### Blog Report 7 
 #### Monday 
-- Move the fully annotated text with current FBL tag from FrameNet into gallina, it can be acesss with the following commend: cd /mnt/rds/redhen/gallina/Singularity/frameblends/simple_label/framenet_simple_label
+- Move the fully annotated text with current FBL tag from FrameNet into gallina, it can be acesss with the following commend: cd /mnt/rds/redhen/gallina/Singularity/frameblends/simple_label/framenet_simple_label. A README.md file has been added. 
 
