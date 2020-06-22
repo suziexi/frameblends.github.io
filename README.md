@@ -482,5 +482,5 @@ Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:
 #### Monday 
 - Move the fully annotated text with current FBL tag from FrameNet into gallina, it can be acesss with the following commend: cd /mnt/rds/redhen/gallina/Singularity/frameblends/simple_label/framenet_simple_label. A README.md file has been added. 
 - Update python code from my github repo to /mnt/rds/redhen/gallina/Singularity/frameblends/fn_code on gallina
-- Create a test set at /mnt/rds/redhen/gallina/Singularity/frameblends/tv_data, and begin work on making .fbl files 
+- Create a test set at /mnt/rds/redhen/gallina/Singularity/frameblends/tv_data, and begin working on making .fbl files 
 
