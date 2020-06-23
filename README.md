@@ -487,6 +487,7 @@ Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:
 1. [https://radimrehurek.com/gensim/models/word2vec.html](https://radimrehurek.com/gensim/models/word2vec.html) 
 2. [https://github.com/tmikolov/word2vec](https://github.com/tmikolov/word2vec)
 3. [http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/](http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/)
+- Use gensim(Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corporaword python library) to train the word-embedding model and get semantic vectors based on the verb-noun word list generated last week 
 - Begin working on [Wed meeting slides(still updating)](https://docs.google.com/presentation/d/1vIqpOKCOG7X6C3QvQn80Z_5d-z8cmTEkTgFv8q0EivY/edit?usp=sharing) 
 
 
