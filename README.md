@@ -495,6 +495,7 @@ Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:
 #### Tuesday
 - Continue building on the idea of making a model with semantic word embedding based on tv tree dataset 
 - Read [Chapter 6_Jurafsky’s Vector Semantics and Embeddings](https://drive.google.com/file/d/1xO74BlHhLU2S71oleluuxcHp0RLU890o/view?usp=sharing) 
+- Implement a simple model using word2vector model, will present this implementation at tomorrow's meeting 
 
 
 
