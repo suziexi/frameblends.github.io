@@ -515,14 +515,11 @@ Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:
 	-[Using Embeddings to Compare FrameNet Frames Across Languages](https://www.aclweb.org/anthology/W18-3813/)
 	-[Semantic Frame Embeddings for Detecting Relations between Software Requirements](https://www.aclweb.org/anthology/W19-0606/)
 
-
-
 #### Friday 
 - Begin processing tv tree data files 
 
 
-
-### Blog Report 4
+### Blog Report 8
 #### Monday 
 
 
