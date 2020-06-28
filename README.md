@@ -512,8 +512,8 @@ Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:
 - Read cwru HPC web pages
 - Organize the [question draft](https://docs.google.com/document/d/1cKkZNMwwi_E_Yg4pllnrYN3rb-eZZFHibAJSTN3FL0Q/edit?usp=sharing) about relating Word2Vec and FrameNet and send to Professor Torrent 
 - Read articles about relating FrameNet and Word2Vec: 
-	-[Using Embeddings to Compare FrameNet Frames Across Languages](https://www.aclweb.org/anthology/W18-3813/)
-	-[Semantic Frame Embeddings for Detecting Relations between Software Requirements](https://www.aclweb.org/anthology/W19-0606/)
+	- [Using Embeddings to Compare FrameNet Frames Across Languages](https://www.aclweb.org/anthology/W18-3813/)
+	- [Semantic Frame Embeddings for Detecting Relations between Software Requirements](https://www.aclweb.org/anthology/W19-0606/)
 
 #### Friday 
 - Begin processing tv tree data files 
