@@ -16,6 +16,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - [Blog Report 5](#blog-report-5) (Jun 8 ~ Jun 14)
 - [Blog Report 6](#blog-report-6) (Jun 15 ~ Jun 21)
 - [Blog Report 7](#blog-report-7) (Jun 22 ~ Jun 28)
+- [Blog Report 8](#blog-report-8) (Jun 29 ~ Jul 5)
 
 
 ## Community Bonding Period 
@@ -488,7 +489,7 @@ Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:
 2. [https://github.com/tmikolov/word2vec](https://github.com/tmikolov/word2vec)
 3. [http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/](http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/)
 - Use gensim(Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corporaword python library) to train the word-embedding model and successfully get semantic vectors based on the verb-noun word list generated last week 
-- Begin working on [Wed meeting slides(still updating)](https://docs.google.com/presentation/d/1vIqpOKCOG7X6C3QvQn80Z_5d-z8cmTEkTgFv8q0EivY/edit?usp=sharing) 
+- Begin working on [Wed meeting slides](https://docs.google.com/presentation/d/1vIqpOKCOG7X6C3QvQn80Z_5d-z8cmTEkTgFv8q0EivY/edit?usp=sharing) 
 - Read [Neural Networks & Word Embeddings](https://medium.com/nwamaka-imasogie/neural-networks-word-embeddings-8ec8b3845b2e)
 - Do more set-up on gallina directory 
 
@@ -497,5 +498,31 @@ Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:
 - Read [Chapter 6_Jurafsky’s Vector Semantics and Embeddings](https://drive.google.com/file/d/1xO74BlHhLU2S71oleluuxcHp0RLU890o/view?usp=sharing) 
 - Implement [a simple model using word2vector model](https://github.com/suziexi/2020GSoC_FrameBlends/blob/master/word2vector_test.py), will discuss this implementation at tomorrow's meeting 
 
+#### Wednesday
+- Mentor meeting, [Wed meeting slides](https://docs.google.com/presentation/d/1vIqpOKCOG7X6C3QvQn80Z_5d-z8cmTEkTgFv8q0EivY/edit?usp=sharing) 
+- Organize further tasks: 
+	- Process tv tree seg files dataset, extract noun, verb, time/location words, etc. 
+	- Implement double space/location method on seg file 
+	- Implement semantic vector to seg files 
+	- Be able to generate .fbl files 
+	- Build an interactive mechanism
+	
+#### Thursday 
+- Backup blog to HPC Gallina 
+- Read cwru HPC web pages
+- Organize the [question draft](https://docs.google.com/document/d/1cKkZNMwwi_E_Yg4pllnrYN3rb-eZZFHibAJSTN3FL0Q/edit?usp=sharing) about relating Word2Vec and FrameNet and send to Professor Torrent 
+- Read articles about relating FrameNet and Word2Vec: 
+	-[Using Embeddings to Compare FrameNet Frames Across Languages](https://www.aclweb.org/anthology/W18-3813/)
+	-[Semantic Frame Embeddings for Detecting Relations between Software Requirements](https://www.aclweb.org/anthology/W19-0606/)
+
+
+
+#### Friday 
+- Begin processing tv tree data files 
+
+
+
+### Blog Report 4
+#### Monday 
 
 
