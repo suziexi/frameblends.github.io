@@ -521,5 +521,11 @@ Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:
 
 ### Blog Report 8
 #### Monday 
+- Finish the semantic vector implementation on tv tree seg files at HPC gallina 
+- Clean up the technical concerns  
+
+### 
+- Attend FrameNet International Workshop, my reflction(will be uploaded) 
+- Prepare for mentor meeting, [my presentation slide](https://docs.google.com/presentation/d/1kcUQDHR2Kwh1VO3T87fqv7_0RreGIVBNVCiBwEO2OL0/edit?usp=sharing). This slides include my currnet solutions to my previous raised issues from last week, and new questinos that need brainstorming. 
 
 
