@@ -534,4 +534,27 @@ This is the macroscopic perspective that I would not think about if not particip
 
 - Prepare for mentor meeting, [my presentation slide](https://docs.google.com/presentation/d/1kcUQDHR2Kwh1VO3T87fqv7_0RreGIVBNVCiBwEO2OL0/edit?usp=sharing). The slides include my currnet solutions to my previous raised issues from last week, and new questinos that need brainstorming. 
 
+#### Wednesday
+- Weekly mentor meeting, [my presentation slide](https://docs.google.com/presentation/d/1kcUQDHR2Kwh1VO3T87fqv7_0RreGIVBNVCiBwEO2OL0/edit?usp=sharing)
+- After meeting, summarize the following thoughts and tasks: 
+1. Coding 
+	- Run frame embedding on tv tree data 
+	- Run general word embedding on tv tree data
+	- Run word embedding while consider the dependent relations between verbs and nouns 
+	- Consider and try to use vertical files for POS 
+	
+2. Analysis
+	- After run the three embedding methods above, compare and analyze their ouptut corresponding to the same input 
+	- Think about how "cut-off" value may work here 
+	
+3. General reflection 
+	- FrameNet and NLP(e.g. word embedding) are divergent and not designed to be integrated
+	- The integration is new, but can be important and meaningful 
+
+#### Thursday 
+- Work on frame embedding: sucessfully generate list of lexical units of all frames from FrameNet 1.7, and use them to train the embedding model 
+- Understand FRM_01 in .seg files, and how to extract lexical units in each sentence 
+- Understand vertical files 
+
+#### Friday
 
