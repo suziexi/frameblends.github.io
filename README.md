@@ -17,6 +17,8 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - [Blog Report 6](#blog-report-6) (Jun 15 ~ Jun 21)
 - [Blog Report 7](#blog-report-7) (Jun 22 ~ Jun 28)
 - [Blog Report 8](#blog-report-8) (Jun 29 ~ Jul 5)
+
+### Coding Period Before the Second Evaluation
 - [Blog Report 9](#blog-report-9) (Jul 6 ~ Jul 12)
 
 
@@ -570,7 +572,6 @@ This is the macroscopic perspective that I would not think about if not particip
 - Meet with Dr. Hale, update with him about the project progress, and he introduce me about the following paper: 
 	- [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf) 
 	- [Its Github page](https://github.com/UKPLab/sentence-transformers/) 
-	
 	
 #### Tuesday
 
