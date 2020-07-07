@@ -569,7 +569,7 @@ This is the macroscopic perspective that I would not think about if not particip
 #### Monday 
 - Code for generating frame vectors, and can call those vectors at annotationset(p.s. I only go back to Full-text annotation data a bit, because they have clear GF, PT, FE) 
 - Finish a version of functional frame embedding code, and generate output for all frames data and full text annotation data 
-- Meet with Dr. Hale, update with him about the project progress, and he introduce me about the following paper: 
+- Meet with Dr. Hale, update with him about the project progress, and he introduces me the following paper. It's about word embedding in a sentence and the transformer model. 
 	- [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf) 
 	- [Its Github page](https://github.com/UKPLab/sentence-transformers/) 
 	
