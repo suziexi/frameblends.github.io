@@ -17,6 +17,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - [Blog Report 6](#blog-report-6) (Jun 15 ~ Jun 21)
 - [Blog Report 7](#blog-report-7) (Jun 22 ~ Jun 28)
 - [Blog Report 8](#blog-report-8) (Jun 29 ~ Jul 5)
+- [Blog Report 9](#blog-report-9) (Jul 6 ~ Jul 12)
 
 
 ## Community Bonding Period 
@@ -557,4 +558,21 @@ This is the macroscopic perspective that I would not think about if not particip
 - Understand vertical files 
 
 #### Friday
+- Finish building a frame embedding system by calculating the average vector of all lexical units word embedding 
+- Do theoretical research by reading the following papers and think about their application on our current problem:  
+	- [Using Embeddings to Compare FrameNet Frames Across Languages](https://www.aclweb.org/anthology/W18-3813/)
+	- [Semantic Frame Embeddings for Detecting Relations between Software Requirements](https://www.aclweb.org/anthology/W19-0606/)
+
+### Blog Report 9  
+#### Monday 
+- Code for generating frame vectors, and can call those vectors at annotationset(p.s. I only go back to Full-text annotation data a bit, because they have clear GF, PT, FE) 
+- Finish a version of functional frame embedding code, and generate output for all frames data and full text annotation data 
+- Meet with Dr. Hale, update with him about the project progress, and he introduce me about the following paper: 
+	- [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf) 
+	- [Its Github page](https://github.com/UKPLab/sentence-transformers/) 
+	
+	
+#### Tuesday
+
+
 
