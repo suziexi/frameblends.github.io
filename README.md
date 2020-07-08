@@ -576,6 +576,7 @@ This is the macroscopic perspective that I would not think about if not particip
 #### Tuesday
 - Upload a new version of full-text annotation data with additional annotationset of lexical-unit frame embedding to Gallina 
 - Upload code to Gallina 
+- Work on the meeting slides and the problems I want to address in Wed meeting. The slides will be uploaded later. 
 
 
 
