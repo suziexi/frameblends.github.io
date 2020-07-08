@@ -574,6 +574,9 @@ This is the macroscopic perspective that I would not think about if not particip
 	- [Its Github page](https://github.com/UKPLab/sentence-transformers/) 
 	
 #### Tuesday
+- Upload a new version of full-text annotation data with additional annotationset of lexical-unit frame embedding to Gallina 
+- Upload code to Gallina 
+
 
 
 
