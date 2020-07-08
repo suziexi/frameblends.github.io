@@ -579,5 +579,6 @@ This is the macroscopic perspective that I would not think about if not particip
 - Work on the meeting slides and the problems I want to address in Wed meeting. The slides will be uploaded later. 
 
 
-
+#### Wednesday
+- Mentor meeting, [my slides](https://docs.google.com/presentation/d/1Wd0xeYBofSFVnJK3SvEtS6AiR3ZBFyltaFk9gvG_8zs/edit?usp=sharing) 
 
