@@ -593,21 +593,23 @@ This is the macroscopic perspective that I would not think about if not particip
 
 4. [(Re)construing meaning in NLP, by Sean Trott, Tiago Timponi Torrent, Nancy Chang and Nathan Schneider](https://www.aclweb.org/anthology/2020.acl-main.462.pdf)
 
-- I plan to finish adding FBL lines to .seg files, and then generate .fbl files with FBL tags. There are four types of FBL tags according different identifying methods: 
-1. FBL_time_space: 
-	- Make a note of multiple time and space words 
-	- Parameters: word tokens, start and end index, evoked frames 
-2. FBL_word_sim: 
-	- Word embedding method, nominate top 3 sentence with smallest word similarity rate in each file 
-	- Parameters: word tokens, start and end index, word similarity rate(trained automatically by Gensim) 
-3. FBL_frame_sim: 
-	- Frame embedding method, nominate top 3 sentences with smallest frame simarilty rate in each file 
-	- Parameters: word tokens, start and end index, frame similarity rate, lexical units, evoked frames(trained with my own code, take a similiar approach with Gensim) 
-4. FBL_active_verb: 
-	- Dectect Verb-noun conflict by nominate emotion and spontaneous action verbs,  
-	- Parameters: verb lexical units,evoked verb frames, and the nouns agents in the sentence, may need human to do further evaluation  
-	
-- After I finish the tasks above, I will do a sample evaluation about how effective each nomination method works. I plan to finish generating new files with four types of FBL tags, and the manual evaluation by next Wed. I will share my results in the next meeting. 
-- Additional thoughts: I'm trying to make use of GF, PT, FE to detect frame blends, but the problem is that all GFs and PTs in a annotationset is subset of FEs, and it's impossible to use lexical unit and frame elements inside the same frames to detect the conflicts(or blends). 
+- I plan to finish adding FBL lines to .seg files, and then generate .fbl files with FBL tags. There will be four types of FBL tags corresponding to four nomination methods:
+1. FBL_time_space:
+Nominate sentences with lexical units that evoked multiple time and space frames 
+Parameters: word tokens, start and end index, evoked space/space frames
+2.FBL_word_sim:
+Word embedding method, nominate top 3(or other numbers) sentences with the smallest word similarity rate in each text file 
+Parameters: word tokens, start and end index, word similarity rate(trained automatically by Gensim)
+3. FBL_frame_sim:
+Frame embedding method, nominate top 3(or other numbers) sentences with smallest frame similarity rate in each file
+Parameters: word tokens, start and end index, frame similarity rate, lexical units, evoked frames(trained with my own algorithms, will take a similar approach with Gensim)
+4. FBL_active_verb:
+Detect Verb-noun conflict by nominating sentences with lexical units that evoked emotion and spontaneous action frames 
+Parameters: verb lexical units, evoked verb frames, and the nouns agents in the sentence. This method will need human to do the further manual evaluation
 
+- After I finish the tagging above on .seg files and generating our new .fbl files, I will do a sample evaluation about how effective each nomination method works. I plan to finish both generating new files with four types of FBL tags, and the manual evaluation by next Wed. I will share my progress in the next meeting.
 
+- Additional thoughts: 
+1. Other than LUs, I was trying to make use of GFs, PTs, FEs to detect frame blends, but the problem is that all GFs and PTs in an annotation set is a subset of the corresponding FEs, then it's impossible to use the LUs and FEs inside the same frames to detect the conflicts(or blends). Please let me know if you have additional thoughts about this issue. I will appreciate it a lot.
+
+2. Since POS tagging is relatively less important for my current tasks, I would like to leave vertical files there for a second. Now I know how to access data in vertical files, so if it's helpful for further tasks, I can pick them up anytime. 
