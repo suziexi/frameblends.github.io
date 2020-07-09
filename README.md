@@ -580,6 +580,17 @@ This is the macroscopic perspective that I would not think about if not particip
 
 
 #### Wednesday
-- Mentor meeting, [my slides](https://docs.google.com/presentation/d/1Wd0xeYBofSFVnJK3SvEtS6AiR3ZBFyltaFk9gvG_8zs/edit?usp=sharing) 
+- Mentor meeting, [my slides](https://docs.google.com/presentation/d/1Wd0xeYBofSFVnJK3SvEtS6AiR3ZBFyltaFk9gvG_8zs/edit?usp=sharing)
+
+
+#### Thursday 
+- Professor Torrent provides a list of related papers:  
+1. [What are the Goals of Distributional Semantics?, by Guy Emerson](https://www.aclweb.org/anthology/2020.acl-main.663.pdf)
+
+2. [How Can We Accelerate Progress Towards Human-like Linguistic Generalization?, by Tal Linzen](https://www.aclweb.org/anthology/2020.acl-main.465.pdf)
+
+3. [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data, by Emily Bender and Alexander Koller](https://www.aclweb.org/anthology/2020.acl-main.463.pdf)
+
+4. [(Re)construing meaning in NLP, by Sean Trott, Tiago Timponi Torrent, Nancy Chang and Nathan Schneider](https://www.aclweb.org/anthology/2020.acl-main.462.pdf)
 
 
