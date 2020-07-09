@@ -593,5 +593,21 @@ This is the macroscopic perspective that I would not think about if not particip
 
 4. [(Re)construing meaning in NLP, by Sean Trott, Tiago Timponi Torrent, Nancy Chang and Nathan Schneider](https://www.aclweb.org/anthology/2020.acl-main.462.pdf)
 
+- I plan to finish adding FBL lines to .seg files, and then generate .fbl files wtih FBL tags. There are four types of FBL tags according different identifying methods: 
+1. FBL_time_space: 
+	- Make a note of multiple time and space words 
+	- Parameters: word tokens, start and end index, evoked frames 
+2. FBL_word_sim: 
+	- Word embedding method, nominate top 3 sentence with smallest word similarity rate in each file 
+	- Parameters: word tokens, start and end index, word similarity rate(trained automatically by Gensim) 
+3. FBL_frame_sim: 
+	- Frame embedding method, nominate top 3 sentences with smallest frame simarilty rate in each file 
+	- Parameters: word tokens, start and end index, frame similarity rate, lexical units, evoked frames(trained with my own code, take a similiar approach with Gensim) 
+4. FBL_active_verb: 
+	- Dectect Verb-noun conflict by nominate emotion and spontaneous action verbs,  
+	- Parameters: verb lexical units,evoked verb frames, and the nouns agents in the sentence, may need human to do further evaluation  
+	
+
+
 
 
