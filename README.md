@@ -595,17 +595,17 @@ This is the macroscopic perspective that I would not think about if not particip
 
 - I plan to finish adding FBL lines to .seg files, and then generate .fbl files with FBL tags. There will be four types of FBL tags corresponding to four nomination methods:
 1. FBL_time_space:
-	-Nominate sentences with lexical units that evoked multiple time and space frames 
-	-Parameters: word tokens, start and end index, evoked space/space frames
+	- Nominate sentences with lexical units that evoked multiple time and space frames 
+	- Parameters: word tokens, start and end index, evoked space/space frames
 2.FBL_word_sim:
-	-Word embedding method, nominate top 3(or other numbers) sentences with the smallest word similarity rate in each text file 
-	-Parameters: word tokens, start and end index, word similarity rate(trained automatically by Gensim)
+	- Word embedding method, nominate top 3(or other numbers) sentences with the smallest word similarity rate in each text file 
+	- Parameters: word tokens, start and end index, word similarity rate(trained automatically by Gensim)
 3. FBL_frame_sim:
-	-Frame embedding method, nominate top 3(or other numbers) sentences with smallest frame similarity rate in each file
-	-Parameters: word tokens, start and end index, frame similarity rate, lexical units, evoked frames(trained with my own algorithms, will take a similar approach with Gensim)
+	- Frame embedding method, nominate top 3(or other numbers) sentences with smallest frame similarity rate in each file
+	- Parameters: word tokens, start and end index, frame similarity rate, lexical units, evoked frames(trained with my own algorithms, will take a similar approach with Gensim)
 4. FBL_active_verb:
-	-Detect Verb-noun conflict by nominating sentences with lexical units that evoked emotion and spontaneous action frames 
-	-Parameters: verb lexical units, evoked verb frames, and the nouns agents in the sentence. This method will need human to do the further manual evaluation
+	- Detect Verb-noun conflict by nominating sentences with lexical units that evoked emotion and spontaneous action frames 
+	- Parameters: verb lexical units, evoked verb frames, and the nouns agents in the sentence. This method will need human to do the further manual evaluation
 
 - After I finish the tagging above on .seg files and generating our new .fbl files, I will do a sample evaluation about how effective each nomination method works. I plan to finish both generating new files with four types of FBL tags, and the manual evaluation by next Wed. I will share my progress in the next meeting.
 
