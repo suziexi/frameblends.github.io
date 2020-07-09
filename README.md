@@ -594,3 +594,4 @@ This is the macroscopic perspective that I would not think about if not particip
 4. [(Re)construing meaning in NLP, by Sean Trott, Tiago Timponi Torrent, Nancy Chang and Nathan Schneider](https://www.aclweb.org/anthology/2020.acl-main.462.pdf)
 
 
+
