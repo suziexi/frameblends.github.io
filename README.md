@@ -607,6 +607,7 @@ This is the macroscopic perspective that I would not think about if not particip
 	- Dectect Verb-noun conflict by nominate emotion and spontaneous action verbs,  
 	- Parameters: verb lexical units,evoked verb frames, and the nouns agents in the sentence, may need human to do further evaluation  
 	
-- After I finish the tasks above, I will do a sample evaluation about how effective each nomination method works. 
+- After I finish the tasks above, I will do a sample evaluation about how effective each nomination method works. I plan to finish generating new files with four types of FBL tags, and the manual evaluation by next Wed. I will share my results in the next meeting. 
+- Additional thoughts: I'm trying to make use of GF, PT, FE to detect frame blends, but the problem is that all GF and PT in a annotationset is part of FE, and it's impossible to with lexical unit and frame elements inside the same frame to detect the conflict. 
 
 
