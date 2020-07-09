@@ -607,7 +607,6 @@ This is the macroscopic perspective that I would not think about if not particip
 	- Dectect Verb-noun conflict by nominate emotion and spontaneous action verbs,  
 	- Parameters: verb lexical units,evoked verb frames, and the nouns agents in the sentence, may need human to do further evaluation  
 	
-
-
+- After I finish the tasks above, I will do a sample evaluation about how effective each nomination method works. 
 
 
