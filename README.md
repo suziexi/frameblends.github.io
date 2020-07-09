@@ -593,7 +593,7 @@ This is the macroscopic perspective that I would not think about if not particip
 
 4. [(Re)construing meaning in NLP, by Sean Trott, Tiago Timponi Torrent, Nancy Chang and Nathan Schneider](https://www.aclweb.org/anthology/2020.acl-main.462.pdf)
 
-- I plan to finish adding FBL lines to .seg files, and then generate .fbl files wtih FBL tags. There are four types of FBL tags according different identifying methods: 
+- I plan to finish adding FBL lines to .seg files, and then generate .fbl files with FBL tags. There are four types of FBL tags according different identifying methods: 
 1. FBL_time_space: 
 	- Make a note of multiple time and space words 
 	- Parameters: word tokens, start and end index, evoked frames 
