@@ -20,6 +20,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 
 ### Coding Period Before the Second Evaluation
 - [Blog Report 9](#blog-report-9) (Jul 6 ~ Jul 12)
+- [Blog Report 10](#blog-report-10) (Jul 13 ~ Jul 19)
 
 
 ## Community Bonding Period 
@@ -613,3 +614,23 @@ This is the macroscopic perspective that I would not think about if not particip
 1. Other than LUs, I was trying to make use of GFs, PTs, FEs to detect frame blends, but the problem is that all GFs and PTs in an annotation set is a subset of the corresponding FEs, then it's impossible to use the LUs and FEs inside the same frames to detect the conflicts(or blends). Please let me know if you have additional thoughts about this issue. I will appreciate it a lot.
 
 2. Since POS tagging is relatively less important for my current tasks, I would like to leave vertical files there for a second. Now I know how to access data in vertical files, so if it's helpful for further tasks, I can pick them up anytime. 
+
+#### Friday
+- Design the FBL_01 lable format based on seg files 
+- Finish coding for generating multiple_time and multiple_location FBL_01 label on seg files
+- Do a sample evaluation on multiple_time and multiple_location FBL_01 label  
+
+#### Saturday
+- Coding for building frame embedding method on seg files 
+- Build a nomination system based the frame cosine distance ranking in each files 
+
+#### Sunday 
+- Read papers from the collection of papers 
+
+
+
+### Blog Report 10 
+#### Monday 
+- Do a sample evaluation on the output of frame embedding method 
+
+
