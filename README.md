@@ -621,6 +621,7 @@ This is the macroscopic perspective that I would not think about if not particip
 - Do a sample evaluation on multiple_time and multiple_location FBL_01 label  
 
 #### Saturday
+- Clean up the designing issue of frame embedding implementation 
 - Coding for building frame embedding method on seg files 
 - Build a nomination system based the frame cosine distance ranking in each files 
 
@@ -631,6 +632,14 @@ This is the macroscopic perspective that I would not think about if not particip
 
 ### Blog Report 10 
 #### Monday 
-- Do a sample evaluation on the output of frame embedding method 
+- Do a sample evaluation on the output of frame embedding method
+- Finalize code for the different implementation methods during the last few days 
+
+
+#### Tuesday 
+- Finalize the frame embedding method coding 
+- Run finished code on HPC 
+- Analyze output files 
+- Prepare for the Wed meeting 
 
 
