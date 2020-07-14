@@ -638,6 +638,7 @@ This is the macroscopic perspective that I would not think about if not particip
 
 #### Tuesday 
 - Finalize the frame embedding method coding 
+- Do testing 
 - Run finished code on HPC 
 - Analyze output files 
 - Prepare for the Wed meeting 
