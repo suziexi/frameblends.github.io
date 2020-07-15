@@ -644,3 +644,6 @@ This is the macroscopic perspective that I would not think about if not particip
 - Prepare for the Wed meeting 
 
 
+#### Wednesday
+- Mentor meeting, [my slides](https://docs.google.com/presentation/d/13wLlv2LAfMuw7kYTau7DrDqiwRhizQXKJ5MBd8Tjk7k/edit?usp=sharing) 
+
