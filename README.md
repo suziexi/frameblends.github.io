@@ -668,7 +668,7 @@ Read some related papers, the paper collection shows below:
 1. [Semantic Frame Identification with Distributed Word Representations](https://www.aclweb.org/anthology/P14-1136v2.pdf)<br />
 This paper is not a new one, and I just review it for its using word embedding to help better frame identification. This paper presents a new technique for semantic frame identification that leverages distributed word representations(word embeddings). They present a model that takes word embeddings as input and learns to identify semantic frames. To some extent, this early paper confirms the possibility and effectiveness of composing Word Embedding and FrameNet.   
 
-![Context representation extraction for the embedding model](images/Semantic Frame Identification with Distributed Word Representations.png) 
+![Context representation extraction for the embedding model](images/Semantic Frame Identification with Distributed Word Representations.png)
 
 2. [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)<br /> 
 This paper is a project from Stanford NLP Group. It competes with Word2Vec. I have heard about this project before, but not looked closely.This project combines the advantages from global matrix factorization and local context window methods: 
