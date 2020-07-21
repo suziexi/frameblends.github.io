@@ -663,6 +663,7 @@ Read some related papers, the paper collection shows below:
 ### Blog Report 11 
 #### Monday 
 - Working on evaluating the current embedding methods 
+- An interesting blog report: https://gofishdigital.com/semantic-frames/
 
 
 #### Tuesday 
