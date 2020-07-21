@@ -668,17 +668,14 @@ Read some related papers, the paper collection shows below:
 1. [Semantic Frame Identification with Distributed Word Representations](https://www.aclweb.org/anthology/P14-1136v2.pdf)<br />
 This paper is not a new one, and I just review it for its using word embedding to help better frame identification. This paper presents a new technique for semantic frame identification that leverages distributed word representations(word embeddings). They present a model that takes word embeddings as input and learns to identify semantic frames. To some extent, this early paper confirms the possibility and effectiveness of composing Word Embedding and FrameNet.   
 
-![Context representation extraction for the embedding model](images/Semantic Frame Identification with Distributed Word Representations.jpeg) 
+![Context representation extraction for the embedding model](images/Semantic Frame Identification with Distributed Word Representations.png) 
 
 2. [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)<br /> 
 This paper is a project from Stanford NLP Group. It competes with Word2Vec. I have heard about this project before, but not looked closely.This project combines the advantages from global matrix factorization and local context window methods: 
 	- Matrix Factorization Methods: These methods utilize low-rank ap- proximations to decompose large matrices that capture statistical information about a corpus. The main problem of these methods is that the most frequent words contribute a disproportionate amount to the similarity measure, for example, "the" or "and" will have a large effect on their similarity despite conveying relatively little about their semantic relatedness.
 	- Shallow Window-Based Methods: These methods learn word representations that aid in making predictions within local context windows. The shallow window-based methods suffer from the disadvantage that they do not operate directly on the co-occurrence statistics of the corpus
 
-This paper presents and evaluates the performances of GloVe on the following tasks, and indicates GloVe outperforms other models on all of them: 
-	- Word analogies
-	- Word similarity
-	- Named entity recognition
+Additionally, this paper presents and evaluates the performances of GloVe on the following tasks, and indicates GloVe outperforms other models on all of them: Word analogies; Word similarity; Named entity recognition
 
 3. [Dynamic Word Embeddings for Evolving Semantic Discovery](https://arxiv.org/pdf/1703.00607.pdf)<br /> 
 This paper is an unique one. Instead of contributing to technical refinement, this paper presents a progress on a more cross-disciplinary side of semantics and word embedding. They propose to learn temporal embeddings in all time slices concurrently, and apply regularization terms to smooth embedding changes across time. Compared to the traditional approaches of "compute static word embeddings in each time slice separately, then find a way to align the word embeddings across time slices", their methods have the following advantages: 
