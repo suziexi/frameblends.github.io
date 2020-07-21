@@ -21,6 +21,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 ### Coding Period Before the Second Evaluation
 - [Blog Report 9](#blog-report-9) (Jul 6 ~ Jul 12)
 - [Blog Report 10](#blog-report-10) (Jul 13 ~ Jul 19)
+- [Blog Report 11](#blog-report-11) (Jul 20 ~ Jul 26)
 
 
 ## Community Bonding Period 
@@ -646,4 +647,26 @@ This is the macroscopic perspective that I would not think about if not particip
 
 #### Wednesday
 - Mentor meeting, [my slides](https://docs.google.com/presentation/d/13wLlv2LAfMuw7kYTau7DrDqiwRhizQXKJ5MBd8Tjk7k/edit?usp=sharing) 
+
+#### Thursday 
+Read some related papers, the paper collection shows below: 
+- [Machine Comprehension with Syntax, Frames, and Semantics](https://www.aclweb.org/anthology/P15-2115.pdf) 
+- [Dynamic Word Embeddings for Evolving Semantic Discovery](https://arxiv.org/pdf/1703.00607.pdf) 
+- [Using Embeddings to Compare FrameNet Frames Across Languages](https://www.aclweb.org/anthology/W18-3813.pdf) 
+- [A Crowdsourced Frame Disambiguation Corpus with Ambiguity](https://www.aclweb.org/anthology/N19-1224.pdf) 
+- [Semantic Frame Identification with Distributed Word Representations](https://www.aclweb.org/anthology/P14-1136v2.pdf) 
+- [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) 
+
+#### Friday
+- Continue the reading list 
+
+### Blog Report 11 
+#### Monday 
+- Working on evaluating the current embedding methods 
+
+
+#### Tuesday 
+
+
+#### Wednesday
 
