@@ -690,4 +690,6 @@ This paper is an unique one. Instead of contributing to technical refinement, th
 
 
 #### Wednesday
+- Finish a preliminary interactive system that allows human analysts do the manual correction
+- The link to presentation slides is [here](https://docs.google.com/presentation/d/11LWQqLRNR7z95fbmaSkIHXjbfsXxtCLFJFd7lLvc6Pg/edit?usp=sharing) 
 
