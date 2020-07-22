@@ -687,9 +687,16 @@ This paper is an unique one. Instead of contributing to technical refinement, th
 #### Tuesday 
 - Prepare for Wed meeting, the slides will be uploaded later 
 - Run testing of the current code; evaluate and think about potential improvement on the current methods 
+- Finish a preliminary interactive system that allows human analysts do the manual correction
 
 
 #### Wednesday
-- Finish a preliminary interactive system that allows human analysts do the manual correction
 - The link to presentation slides is [here](https://docs.google.com/presentation/d/11LWQqLRNR7z95fbmaSkIHXjbfsXxtCLFJFd7lLvc6Pg/edit?usp=sharing) 
+- Write a short summary about the journey so far: 
+	- Explore existing tools: Sling, Semafor, Open-SESAME
+	- Become (super) familiar with dataset: FrameNet full-text annotation xml files, HPC tv tree seg files 
+	- Develop simple approachs: multiple_time, multiple location, noun & verb conflict, emotion/action verbs detection 
+	- Develop embedding approaches: word embedding, frame embedding 
+	- Start developing a preliminary interactive system with manual correction 
+
 
