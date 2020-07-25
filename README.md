@@ -705,6 +705,7 @@ Make a general plan for the next evaluation period:
 - Find a way to integrate with Rapid Annotator or other possible interface that allows manual correction 
 - With some initial nomination and manual correction mechanism, build (at least) a skeleton iterative system(human-in-the-loop machine learning) that can feed input annotation with manual correction 
 - Organize everything together as a pipeline as Minimum Viable Product(MVP) 
+![human_in_loop](images/human_in_loop.png)
 
 
 #### Friday
