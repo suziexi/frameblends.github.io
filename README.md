@@ -22,6 +22,11 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - [Blog Report 9](#blog-report-9) (Jul 6 ~ Jul 12)
 - [Blog Report 10](#blog-report-10) (Jul 13 ~ Jul 19)
 - [Blog Report 11](#blog-report-11) (Jul 20 ~ Jul 26)
+- [Blog Report 12](#blog-report-12) (Jul 27 ~ Aug 2)
+
+### Coding Period Before the Third Evaluation
+
+
 
 
 ## Community Bonding Period 
@@ -716,7 +721,14 @@ Make a general plan for the next evaluation period:
 	
 
 #### Saturday
+- Working on Frame Embedding methods 
 
 
 #### Sunday 
+
+
+### Blog Report 12 
+
+
+
 
