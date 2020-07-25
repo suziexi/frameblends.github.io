@@ -699,4 +699,14 @@ This paper is an unique one. Instead of contributing to technical refinement, th
 	- Develop embedding approaches: word embedding, frame embedding 
 	- Start developing a preliminary interactive system with manual correction 
 
+#### Thursday 
+Make a general plan for the next evaluation period: 
+- Improve and further develop the frame embedding method, 
+- Find a way to integrate with Rapid Annotator or other possible interface that allows manual correction 
+- With some initial nomination and manual correction mechanism, build (at least) a skeleton iterative system(human-in-the-loop machine learning) that can feed input annotation with manual correction 
+- Organize everything together as a pipeline as Minimum Viable Product(MVP) 
 
+
+#### Friday
+- Reading about with human-in-the-loop machine learning and word embedding methods, especially how to collaborate them 
+	- 
