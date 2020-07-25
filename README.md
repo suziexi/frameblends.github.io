@@ -710,4 +710,13 @@ Make a general plan for the next evaluation period:
 
 #### Friday
 - Reading about with human-in-the-loop machine learning and word embedding methods, especially how to collaborate them 
-	- 
+	- [Few-Shot Text Classification with Pre-Trained Word Embeddings and a Human in the Loop](https://arxiv.org/pdf/1804.02063.pdf)
+	- [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SEN- TENCE EMBEDDINGS](https://openreview.net/pdf?id=SyK00v5xx) 
+	- [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf) 
+	
+
+#### Saturday
+
+
+#### Sunday 
+
