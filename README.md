@@ -722,9 +722,11 @@ Make a general plan for the next evaluation period:
 
 #### Saturday
 - Working on Frame Embedding methods 
+- Continue the readng and build the idea of an iterative process with human intervention 
 
 
 #### Sunday 
+
 
 
 ### Blog Report 12 
