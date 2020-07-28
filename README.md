@@ -718,18 +718,36 @@ Make a general plan for the next evaluation period:
 	- [Few-Shot Text Classification with Pre-Trained Word Embeddings and a Human in the Loop](https://arxiv.org/pdf/1804.02063.pdf)
 	- [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SEN- TENCE EMBEDDINGS](https://openreview.net/pdf?id=SyK00v5xx) 
 	- [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf) 
+- Look through the documentation for Rapid Annotator 
 	
 
 #### Saturday
 - Working on Frame Embedding methods 
 - Continue the readng and build the idea of an iterative process with human intervention 
+- Generate a new method related using frame embedding and human-in-the-loop methods 
 
-
-#### Sunday 
 
 
 
 ### Blog Report 12 
+#### Monday
+- Coding for the new method and do some testing, and this method will be presented in detail at Wed meeting 
+- The following is a short summary of the proposed new method: 
+	- Human analysts recognize frame blends cases from data files 
+	- Call frame embedding system to identify the frame vectors which cause such blends 
+	- Consider such identified frame-vector-pair as a prototype of frame blends 
+	- Detect similar frame-vector-paris by identifying frame vectors with similar semantic distribution(the new frame paris carry similar semantic meaning with prototype frame pair respectively) 
+	- For example, ideally, given “winter whispers” as a prototype of frame blends case, this model should be able to detect some cases like “summer talks”(because "summer" carries similar semantic meaning compared to "winter", and "talks" carries similar semantic meaning compared to "whispers"), or any other counter-intuitive but with close semantic  distances cases 
+	- Use those newly confirmed cases as updated prototypes and go through the process above iteratively to bulid a rich bank of frame blends cases with an intuitive classification
+	
+	
+#### Tuesday 
+- Continue coding and testing 
+- The slidesd for Wed meeting is [here](https://docs.google.com/presentation/d/1ZM4ViIkj7iQWAYnt--SNHrd6WS6_rJ_cZLrAkDyPB28/edit?usp=sharing)
+
+
+#### Wednesday
+- Mentor meeting 
 
 
 
