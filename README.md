@@ -25,6 +25,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - [Blog Report 12](#blog-report-12) (Jul 27 ~ Aug 2)
 
 ### Coding Period Before the Third Evaluation
+- [Blog Report 13](#blog-report-13) (Aug 3 ~ Aug 9) 
 
 
 
@@ -765,5 +766,9 @@ Make a general plan for the next evaluation period:
 - Begin to write a Design Document for human-in-the-loop method, and it will be uploaded later 
 - Organize all the previous methods on HPC, and reflect on a way to put them together 
 
+
+### Blog Report 13 
+#### Monday 
+- Meeting about Rapid Annotator  
 
 
