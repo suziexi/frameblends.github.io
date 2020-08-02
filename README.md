@@ -748,7 +748,22 @@ Make a general plan for the next evaluation period:
 
 #### Wednesday
 - Mentor meeting 
+ 
+ 
+#### Thursday 
+- Integrate POS_02 tags in the seg files with current vector-pair method 
+- Build the function with customized requirements of grammatical function for the prototype frames. For example, admin can set a filter of verbs('VB', 'VBP', 'VBZ', 'VBD') for the similar cases corresponding to "emotion" frame, and a filter of nouns('NN', 'NNP', 'NNPS') for the similar cases corresponding to "natural_landscape." 
 
+
+#### Friday
+- Finsh an algorithm that can find the most similar frames using frame embedding vectors and cosine similarity, and get the output 
+- Testing on the vector-pair methods 
+
+
+#### Saturday
+- Do more research about Rapid Annotator 
+- Begin to write a Design Document for human-in-the-loop method, and it will be uploaded later 
+- Organize all the previous methods on HPC, and reflect on a way to put them together 
 
 
 
