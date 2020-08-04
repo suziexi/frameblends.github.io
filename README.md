@@ -771,6 +771,7 @@ Make a general plan for the next evaluation period:
 #### Monday 
 - Meeting about Rapid Annotator: receive supports for integrating Rapid Annotator interface as part of the human-in-the-loop methods 
 - Design a preliminary flowchart 
+![flowchart](images/flowchart.png) 
 - Write a detailed [Design Doc(or an user guide for admin)](https://docs.google.com/document/d/1etlevptuLEQU-0OygDgpnLI9Q0g2gWd6JjoBvvwOxxw/edit?usp=sharing) for the interactie system that integrates both algorithm nomination and manual decisions. I will add more information to this file for the further update. 
 
 
