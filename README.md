@@ -51,6 +51,46 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 
 - [Aug 5 Meeting](https://docs.google.com/presentation/d/1v2y12VtZaMk4P9CN7vGtDFvuwSYmkEjyR4p6gr-br9M/edit#slide=id.g86a9946b06_0_68) 
 
+## Quick Index of All Related Papers 
+- [FrameNet II: Extended Theory and Practice](https://framenet2.icsi.berkeley.edu/docs/r1.5/book.pdf) 
+- [Automatic metaphor detection using constructions and frames](https://www.jbe-platform.com/content/journals/10.1075/cf.8.2.06hon) 
+- [The Multilingual FrameNet Shared Annotation Task: a Preliminary Report](http://lrec-conf.org/workshops/lrec2018/W5/pdf/12_W5.pdf) 
+- [Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/abs/1705.09406)
+- [Multimodal Fusion for Multimedia Analysis: A Survey](https://link.springer.com/article/10.1007/s00530-010-0182-0) 
+- [Deep Multimodal Learning: A survey on recent advances and trends](https://ieeexplore.ieee.org/document/8103116) 
+- [SEMAFOR 1.0: A Probabilistic Frame-Semantic Parser](https://www.cs.cmu.edu/~nschneid/dscs-tr.pdf) 
+- [Frame-Semantic Parsing with Softmax-Margin Segmental RNNs and a Syntactic Scaffold](https://arxiv.org/pdf/1706.09528.pdf)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) 
+- [SLING: A framework for frame semantic parsing](https://arxiv.org/abs/1710.07032) 
+- [MetaNet: Deep semantic automatic metaphor analysis](https://www.aclweb.org/anthology/W15-1405.pdf) 
+- [Words and Rules: The Ingredients of Language](https://monoskop.org/images/9/9e/Pinker_Steven_Words_and_rules_the_ingredients_of_language_1999.Pdf) 
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) 
+- [Metaphor Identification Using Verb and Noun Clustering by Ekaterina Shutova, Lin Sun and Anna Korhonen](https://pdfs.semanticscholar.org/3788/297715225f81ec1ee2718be23e237384f375.pdf) 
+- [Phrase-Level Metaphor Identification using Distributed Representations of Word Meaning by Omnia Zayed, John P. McCrae, Paul Buitelaar](https://www.aclweb.org/anthology/W18-0910.pdf) 
+- [Human-in-the-Loop Machine Learning: Active learning, annotation, and human-computer interaction by Robert Munro](https://www.manning.com/books/human-in-the-loop-machine-learning#:~:text=%E2%80%9CHuman%2Din%2Dthe%2D,%2C%20machine%20performance%2C%20or%20both.)
+- [Parsing Software Requirements with an Ontology-based Semantic Role Labeler by Michael Roth and Ewan Klein](https://www.aclweb.org/anthology/W15-0403.pdf) 
+- [Structured Composition of Semantic Vectors by Stephen Wu and William Schuler](https://www.aclweb.org/anthology/W11-0131.pdf) 
+- [Building a Neural Semantic Parser from a Domain Ontology by Jianpeng Cheng, Siva Reddy and Mirella Lapata](https://arxiv.org/pdf/1812.10037.pdf) 
+- [Using Embeddings to Compare FrameNet Frames Across Languages](https://www.aclweb.org/anthology/W18-3813/) 
+- [Semantic Frame Embeddings for Detecting Relations between Software Requirements](https://www.aclweb.org/anthology/W19-0606/) 
+- [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf) 
+- [What are the Goals of Distributional Semantics?, by Guy Emerson](https://www.aclweb.org/anthology/2020.acl-main.663.pdf) 
+- [How Can We Accelerate Progress Towards Human-like Linguistic Generalization?, by Tal Linzen](How Can We Accelerate Progress Towards Human-like Linguistic Generalization?, by Tal Linzen) 
+- [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data, by Emily Bender and Alexander Koller](https://www.aclweb.org/anthology/2020.acl-main.463.pdf) 
+- [(Re)construing meaning in NLP, by Sean Trott, Tiago Timponi Torrent, Nancy Chang and Nathan Schneider](https://www.aclweb.org/anthology/2020.acl-main.462.pdf) 
+- [Machine Comprehension with Syntax, Frames, and Semantics](https://www.aclweb.org/anthology/P15-2115.pdf) 
+- [Dynamic Word Embeddings for Evolving Semantic Discovery](https://arxiv.org/pdf/1703.00607.pdf) 
+- [Using Embeddings to Compare FrameNet Frames Across Languages](https://www.aclweb.org/anthology/W18-3813.pdf) 
+- [A Crowdsourced Frame Disambiguation Corpus with Ambiguity](https://www.aclweb.org/anthology/N19-1224.pdf) 
+- [Semantic Frame Identification with Distributed Word Representations](https://www.aclweb.org/anthology/P14-1136v2.pdf) 
+- [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) 
+- [Semantic Frame Identification with Distributed Word Representations](https://www.aclweb.org/anthology/P14-1136v2.pdf) 
+- [Few-Shot Text Classification with Pre-Trained Word Embeddings and a Human in the Loop](https://arxiv.org/pdf/1804.02063.pdf) 
+- [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS](https://openreview.net/pdf?id=SyK00v5xx) 
+- [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf) 
+- [Language (Re)modelling: Towards Embodied Language Understanding](https://www.aclweb.org/anthology/2020.acl-main.559/) 
+- [Computational Linguistic Models of Mental Spaces](http://repository.essex.ac.uk/18085/1/Essex_CliffOReilly_Dissertation_Oct2014_Final_20160527.pdf) 
+- [Mental spaces, language modalities, and conceptual integration](https://pdfs.semanticscholar.org/9665/fdbaeb023bcece4b30c3ac598158954fc3ea.pdf?_ga=2.201262062.1706826901.1596845237-1207180940.1590008205) 
 
 
 ## Community Bonding Period 
@@ -810,7 +850,8 @@ Make a general plan for the next evaluation period:
 	- [Language (Re)modelling: Towards Embodied Language Understanding](https://www.aclweb.org/anthology/2020.acl-main.559/) 
 	- [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463/)
 	- [(Re)construing Meaning in NLP](https://www.aclweb.org/anthology/2020.acl-main.462/) 
-	- [Computational Linguistic Models of Mental Spaces](http://repository.essex.ac.uk/18085/1/Essex_CliffOReilly_Dissertation_Oct2014_Final_20160527.pdf)\
+	- [Computational Linguistic Models of Mental Spaces](http://repository.essex.ac.uk/18085/1/Essex_CliffOReilly_Dissertation_Oct2014_Final_20160527.pdf) 
+	
 - Read about mental space
 	- [Mental spaces, language modalities, and conceptual integration](https://pdfs.semanticscholar.org/9665/fdbaeb023bcece4b30c3ac598158954fc3ea.pdf?_ga=2.201262062.1706826901.1596845237-1207180940.1590008205)
 	- [Mental Spaces](http://www.cogsci.ucsd.edu/~faucon/BEIJING/mentalspaces.pdf)
