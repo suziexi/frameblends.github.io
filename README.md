@@ -75,7 +75,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - [Semantic Frame Embeddings for Detecting Relations between Software Requirements](https://www.aclweb.org/anthology/W19-0606/) 
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf) 
 - [What are the Goals of Distributional Semantics?, by Guy Emerson](https://www.aclweb.org/anthology/2020.acl-main.663.pdf) 
-- [How Can We Accelerate Progress Towards Human-like Linguistic Generalization?, by Tal Linzen](How Can We Accelerate Progress Towards Human-like Linguistic Generalization?, by Tal Linzen) 
+- [How Can We Accelerate Progress Towards Human-like Linguistic Generalization?, by Tal Linzen](https://arxiv.org/pdf/2005.00955.pdf)
 - [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data, by Emily Bender and Alexander Koller](https://www.aclweb.org/anthology/2020.acl-main.463.pdf) 
 - [(Re)construing meaning in NLP, by Sean Trott, Tiago Timponi Torrent, Nancy Chang and Nathan Schneider](https://www.aclweb.org/anthology/2020.acl-main.462.pdf) 
 - [Machine Comprehension with Syntax, Frames, and Semantics](https://www.aclweb.org/anthology/P15-2115.pdf) 
