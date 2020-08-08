@@ -796,4 +796,4 @@ Make a general plan for the next evaluation period:
 #### Friday
 - Begin building an entry for Techne Public Site on Google Sites  
 - Work on the converting algorithm for human-in-the-loop methods 
-- Organze the past blog reports, organize a quick index for all meeting slides and related papers. Please see the beginning of this page. 
+- Organize the past blog reports, organize a quick index for all meeting slides and related papers. Please see the beginning of this page. 
