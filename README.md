@@ -782,3 +782,18 @@ Make a general plan for the next evaluation period:
 #### Wednesday
 - Mentor meeting 
 
+#### Thursday 
+- Read recommended paper from mentor meeting 
+	- [Language (Re)modelling: Towards Embodied Language Understanding](https://www.aclweb.org/anthology/2020.acl-main.559/) 
+	- [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463/)
+	- [(Re)construing Meaning in NLP](https://www.aclweb.org/anthology/2020.acl-main.462/) 
+	- [Computational Linguistic Models of Mental Spaces](http://repository.essex.ac.uk/18085/1/Essex_CliffOReilly_Dissertation_Oct2014_Final_20160527.pdf)\
+- Read about mental space
+	- [Mental spaces, language modalities, and conceptual integration](https://pdfs.semanticscholar.org/9665/fdbaeb023bcece4b30c3ac598158954fc3ea.pdf?_ga=2.201262062.1706826901.1596845237-1207180940.1590008205)
+	- [Mental Spaces](http://www.cogsci.ucsd.edu/~faucon/BEIJING/mentalspaces.pdf)
+- Review the meetnig recording 
+
+#### Friday
+- Begin building an entry for Techne Public Site on Google Sites  
+- Work on the converting algorithm for human-in-the-loop methods 
+- Organze the past blog reports, organize a quick index for all meeting slides and related papers. Please see the beginning of this page. 
