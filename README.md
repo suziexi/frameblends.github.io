@@ -28,28 +28,28 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - [Blog Report 13](#blog-report-13) (Aug 3 ~ Aug 9) 
 
 
-## Quick Index of All Meeting Slides 
-[May 27](https://docs.google.com/presentation/d/1VhzfkSUXV7-C6Ndkds46igfntaJp04PoZ1McFF85ZDs/edit#slide=id.g877c64012d_1_206)
+## Quick Index of All Mentor Meeting Slides 
+- [May 27 Meeting](https://docs.google.com/presentation/d/1VhzfkSUXV7-C6Ndkds46igfntaJp04PoZ1McFF85ZDs/edit#slide=id.g877c64012d_1_206)
 
-[June 3](https://docs.google.com/document/d/1BFvhZTP7QuKECwhcvZ-mRKshXOoLRon3lTzoZJ_Ba2w/edit) 
+- [June 3 Meeting](https://docs.google.com/document/d/1BFvhZTP7QuKECwhcvZ-mRKshXOoLRon3lTzoZJ_Ba2w/edit) 
 
-[June 10](https://docs.google.com/presentation/d/1byo7uo20lFHw-u9snI1JrY4fdtS_0ot7G89So9RjNkE/edit#slide=id.g8895b2fec1_1_58)
+- [June 10 Meeting](https://docs.google.com/presentation/d/1byo7uo20lFHw-u9snI1JrY4fdtS_0ot7G89So9RjNkE/edit#slide=id.g8895b2fec1_1_58)
 
-[June 17](https://docs.google.com/presentation/d/1LhUB1xCewOYDIpC_I1EAObRT0vJue7BvwLjQIyF7ZpQ/edit#slide=id.g88c0b05b43_0_4) 
+- [June 17 Meeting](https://docs.google.com/presentation/d/1LhUB1xCewOYDIpC_I1EAObRT0vJue7BvwLjQIyF7ZpQ/edit#slide=id.g88c0b05b43_0_4) 
 
-[June 24](https://docs.google.com/presentation/d/1vIqpOKCOG7X6C3QvQn80Z_5d-z8cmTEkTgFv8q0EivY/edit#slide=id.g893bb6a924_0_58) 
+- [June 24 Meeting](https://docs.google.com/presentation/d/1vIqpOKCOG7X6C3QvQn80Z_5d-z8cmTEkTgFv8q0EivY/edit#slide=id.g893bb6a924_0_58) 
 
-[July 1](https://docs.google.com/presentation/d/1kcUQDHR2Kwh1VO3T87fqv7_0RreGIVBNVCiBwEO2OL0/edit#slide=id.g8ae27b1e9c_0_0) 
+- [July 1 Meeting](https://docs.google.com/presentation/d/1kcUQDHR2Kwh1VO3T87fqv7_0RreGIVBNVCiBwEO2OL0/edit#slide=id.g8ae27b1e9c_0_0) 
 
-[July 8](https://docs.google.com/presentation/d/1Wd0xeYBofSFVnJK3SvEtS6AiR3ZBFyltaFk9gvG_8zs/edit#slide=id.g8bb8c01cb5_0_58) 
+- [July 8 Meeting](https://docs.google.com/presentation/d/1Wd0xeYBofSFVnJK3SvEtS6AiR3ZBFyltaFk9gvG_8zs/edit#slide=id.g8bb8c01cb5_0_58) 
 
-[July 15](https://docs.google.com/presentation/d/13wLlv2LAfMuw7kYTau7DrDqiwRhizQXKJ5MBd8Tjk7k/edit#slide=id.g824b863925_0_58) 
+- [July 15 Meeting](https://docs.google.com/presentation/d/13wLlv2LAfMuw7kYTau7DrDqiwRhizQXKJ5MBd8Tjk7k/edit#slide=id.g824b863925_0_58) 
 
-[July 22](https://docs.google.com/presentation/d/11LWQqLRNR7z95fbmaSkIHXjbfsXxtCLFJFd7lLvc6Pg/edit#slide=id.g8c85ddede0_0_0)
+- [July 22 Meeting](https://docs.google.com/presentation/d/11LWQqLRNR7z95fbmaSkIHXjbfsXxtCLFJFd7lLvc6Pg/edit#slide=id.g8c85ddede0_0_0)
 
-[July 29](https://docs.google.com/presentation/d/1ZM4ViIkj7iQWAYnt--SNHrd6WS6_rJ_cZLrAkDyPB28/edit#slide=id.g8c7fecd140_0_62)
+- [July 29 Meeting](https://docs.google.com/presentation/d/1ZM4ViIkj7iQWAYnt--SNHrd6WS6_rJ_cZLrAkDyPB28/edit#slide=id.g8c7fecd140_0_62)
 
-[Aug 5](https://docs.google.com/presentation/d/1v2y12VtZaMk4P9CN7vGtDFvuwSYmkEjyR4p6gr-br9M/edit#slide=id.g86a9946b06_0_68) 
+- [Aug 5 Meeting](https://docs.google.com/presentation/d/1v2y12VtZaMk4P9CN7vGtDFvuwSYmkEjyR4p6gr-br9M/edit#slide=id.g86a9946b06_0_68) 
 
 
 
