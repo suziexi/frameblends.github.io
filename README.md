@@ -5,7 +5,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 ### Project Description 
 - For the project idea "AI Recognizers of Frame Blends, Especially in Conversations About the Future," my proposal aims to build a semantic tagging system to detect different time frames in the conversation in the form of text or video record. Ideally, this system can classify the situation where human beings imagine a future by blending the present with incompatible frames. The project will be based on some of the existed algorithms, frameworks, and databases, and also choose and integrate them carefully to accomplish the goal. If possible, this project also aims to create an interactive system that allows humans to manually mark the false positive and true negative and keep re-training the data with such manipulation by human experts. In each round of training, the system will consider the manual marks, and eventually reach the stage when the system is able to mark the desired portion as accurate as possible. When the source data is large enough, the tagging system of the blended frame also allows us to make the unnoticed connections between current and past social conditions to gain inspiration to solve the real-world problem, or provide more evidence to the anthropological and historical studies.
 
-## Quick Index 
+## Quick Index of Daily Progress
 ### Community Bonding Period 
 - [Blog Report 1](#blog-report-1) (May 11 ~ May 17) 
 - [Blog Report 2](#blog-report-2) (May 18 ~ May 24)
@@ -27,6 +27,29 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 ### Coding Period Before the Third Evaluation
 - [Blog Report 13](#blog-report-13) (Aug 3 ~ Aug 9) 
 
+
+## Quick Index of All Meeting Slides 
+[May 27](https://docs.google.com/presentation/d/1VhzfkSUXV7-C6Ndkds46igfntaJp04PoZ1McFF85ZDs/edit#slide=id.g877c64012d_1_206)
+
+[June 3](https://docs.google.com/document/d/1BFvhZTP7QuKECwhcvZ-mRKshXOoLRon3lTzoZJ_Ba2w/edit) 
+
+[June 10](https://docs.google.com/presentation/d/1byo7uo20lFHw-u9snI1JrY4fdtS_0ot7G89So9RjNkE/edit#slide=id.g8895b2fec1_1_58)
+
+[June 17](https://docs.google.com/presentation/d/1LhUB1xCewOYDIpC_I1EAObRT0vJue7BvwLjQIyF7ZpQ/edit#slide=id.g88c0b05b43_0_4) 
+
+[June 24](https://docs.google.com/presentation/d/1vIqpOKCOG7X6C3QvQn80Z_5d-z8cmTEkTgFv8q0EivY/edit#slide=id.g893bb6a924_0_58) 
+
+[July 1](https://docs.google.com/presentation/d/1kcUQDHR2Kwh1VO3T87fqv7_0RreGIVBNVCiBwEO2OL0/edit#slide=id.g8ae27b1e9c_0_0) 
+
+[July 8](https://docs.google.com/presentation/d/1Wd0xeYBofSFVnJK3SvEtS6AiR3ZBFyltaFk9gvG_8zs/edit#slide=id.g8bb8c01cb5_0_58) 
+
+[July 15](https://docs.google.com/presentation/d/13wLlv2LAfMuw7kYTau7DrDqiwRhizQXKJ5MBd8Tjk7k/edit#slide=id.g824b863925_0_58) 
+
+[July 22](https://docs.google.com/presentation/d/11LWQqLRNR7z95fbmaSkIHXjbfsXxtCLFJFd7lLvc6Pg/edit#slide=id.g8c85ddede0_0_0)
+
+[July 29](https://docs.google.com/presentation/d/1ZM4ViIkj7iQWAYnt--SNHrd6WS6_rJ_cZLrAkDyPB28/edit#slide=id.g8c7fecd140_0_62)
+
+[Aug 5](https://docs.google.com/presentation/d/1v2y12VtZaMk4P9CN7vGtDFvuwSYmkEjyR4p6gr-br9M/edit#slide=id.g86a9946b06_0_68) 
 
 
 
