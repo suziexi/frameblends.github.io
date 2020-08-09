@@ -861,3 +861,7 @@ Make a general plan for the next evaluation period:
 - Begin building an entry for Techne Public Site on Google Sites  
 - Work on the converting algorithm for human-in-the-loop methods 
 - Organize the past blog reports, organize a quick index for all meeting slides and related papers. Please see the beginning of this page. 
+
+#### Saturday
+- Work on the Frame Blends project entry on Techne Public Sites 
+- Build the pipeline on HPC
