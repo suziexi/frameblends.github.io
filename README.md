@@ -26,6 +26,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 
 ### Coding Period Before the Third Evaluation
 - [Blog Report 13](#blog-report-13) (Aug 3 ~ Aug 9) 
+- [Blog Report 14](#blog-report-14) (Aug 10 ~ Aug 16) 
 
 
 ## Quick Index of All Mentor Meeting Slides 
@@ -865,3 +866,15 @@ Make a general plan for the next evaluation period:
 #### Saturday
 - Work on the Frame Blends project entry on Techne Public Sites 
 - Build the pipeline on HPC
+
+### Blog Report 14 
+#### Monday 
+- Meet with  Professor Whitehouse about instructions to the analysts in human-in-the-loop process 
+- Build Google sites for [the overall Frame Blends project entry](https://sites.google.com/view/frame-blends-entry/home), [site for Admin](https://sites.google.com/view/for-adm/home), and [site for Analysts](https://sites.google.com/view/for-analysts/home). I will keep updating these three Google sites. Once I have a relatively completed version, I will put the project entry on Techne Public Site, which links to both the site for Admin and the site for Analysts. 
+- Fix bugs in the nomination algorithms
+
+#### Tuesday 
+
+
+#### Wednesday
+- Mentor meeting 
