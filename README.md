@@ -874,7 +874,10 @@ Make a general plan for the next evaluation period:
 - Fix bugs in the nomination algorithms
 
 #### Tuesday 
-
+- Add the Frame Blends project entry under Student Projects on [Techne Public Site](https://sites.google.com/case.edu/techne-public-site/home). This site aims to present Frame Blends project as a public source for the Red Hen Lab community, and also supports developers or users who may participate in this project in the future. There are two major parts on this page: 
+	- Human-in-the-loop Frame Blends Nomination System: include the slides and flowchart, and also four detailed documentation with different functions. Those documents support Administrator, Analyst and Algorithm Contributor to participate in the Human-in-the-loop process. 
+	- Frame Embedding: include related references of this new method, and explain how it was built from Word Embeddings and FrameNet. 
+- Fix bugs in the nomination algorithms
 
 #### Wednesday
 - Mentor meeting 
