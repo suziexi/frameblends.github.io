@@ -880,4 +880,4 @@ Make a general plan for the next evaluation period:
 - Fix bugs in the nomination algorithms
 
 #### Wednesday
-- Mentor meeting 
+- Mentor meeting [slides](https://docs.google.com/presentation/d/1KboiP27RbnNAK35B4tUv9kVL-PFlI2_-_dctWW0LbCA/edit?usp=sharing)
