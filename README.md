@@ -27,6 +27,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 ### Coding Period Before the Third Evaluation
 - [Blog Report 13](#blog-report-13) (Aug 3 ~ Aug 9) 
 - [Blog Report 14](#blog-report-14) (Aug 10 ~ Aug 16) 
+- [Blog Report 15](#blog-report-15) (Aug 17 ~ Aug 23) 
 
 
 ## Quick Index of All Mentor Meeting Slides 
@@ -881,3 +882,42 @@ Make a general plan for the next evaluation period:
 
 #### Wednesday
 - Mentor meeting [slides](https://docs.google.com/presentation/d/1KboiP27RbnNAK35B4tUv9kVL-PFlI2_-_dctWW0LbCA/edit?usp=sharing)
+
+
+#### Thursday 
+- Preparation for analysts tutorial video 
+	- Do research for concepts 
+	- Record sound track 
+	- Make slides and images 
+
+
+#### Friday
+- Work on Frame Embedding
+	- Write the documentation about Frame Embedding, including the overall ideas and potential improvement 
+	- Do research about the attention mechanism for embeddings
+	
+
+#### Saturday
+- Finish a draft version of tutorial video 
+- Work on HPC pipeline 
+- Reading about attention mechanism 
+
+
+### Blog Report 15
+
+#### Monday 
+- Meeting with Professor Whitehouse, we discussed about the tutorial in both video and text formats, frame blends samples, and userr experience of Rapid Annotator interface from the prespective of analysts  
+- Makie improvements according to the meeting 
+
+
+#### Tuesday 
+Here is list of finished tasks in the past week, and they will be uploaded: 
+- Documentation for Frame Embedding in general 
+- A brief proposal/thoughts about the attention mechanism for Frame Embedding 
+- A list of attention-related papers 
+- A tutorial video for analysts
+- Other related materials for analysts 
+- A improved version of HPC pipeline 
+
+#### Wednesday
+- Mentor meeting slides 
