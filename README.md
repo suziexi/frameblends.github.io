@@ -917,7 +917,7 @@ Here is list of finished tasks in the past week, and they will be uploaded:
 - A list of attention-related papers 
 - A tutorial video for analysts
 - Other related materials for analysts 
-- A improved version of HPC pipeline 
+- An improved version of HPC pipeline 
 
 #### Wednesday
 - Mentor meeting slides 
