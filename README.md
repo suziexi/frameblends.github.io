@@ -915,10 +915,10 @@ Here is list of finished tasks in the past week, please see update on [Project G
 - Documentation for Frame Embedding in general 
 - A brief proposal/thoughts about the attention mechanism for Frame Embedding 
 - A list of attention-related papers 
-- A tutorial video for analysts
+- A tutorial video for analysts, [tutorial video link](https://youtu.be/eM6ScoqaLVc)
 - Other related materials for analysts 
 - An improved version of HPC pipeline 
 
 
 #### Wednesday
-- Mentor meeting slides 
+- Mentor meeting slides, [slides link](https://docs.google.com/presentation/d/1uq3JdfpwVcYZVf7w224PiFYEHWQxfOyKKBRwHR2HNsU/edit?usp=sharing)
