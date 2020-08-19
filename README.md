@@ -911,13 +911,14 @@ Make a general plan for the next evaluation period:
 
 
 #### Tuesday 
-Here is list of finished tasks in the past week, and they will be uploaded: 
+Here is list of finished tasks in the past week, please see update on [Project Google Site](https://sites.google.com/view/frame-blends-entry/home), and I will present everything at the meeting.  
 - Documentation for Frame Embedding in general 
 - A brief proposal/thoughts about the attention mechanism for Frame Embedding 
 - A list of attention-related papers 
 - A tutorial video for analysts
 - Other related materials for analysts 
 - An improved version of HPC pipeline 
+
 
 #### Wednesday
 - Mentor meeting slides 
