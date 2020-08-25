@@ -28,6 +28,7 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 - [Blog Report 13](#blog-report-13) (Aug 3 ~ Aug 9) 
 - [Blog Report 14](#blog-report-14) (Aug 10 ~ Aug 16) 
 - [Blog Report 15](#blog-report-15) (Aug 17 ~ Aug 23) 
+- [Blog Report 16](#blog-report-16) (Aug 24 ~ Aug 30) 
 
 
 ## Quick Index of All Mentor Meeting Slides 
@@ -922,3 +923,38 @@ Here is list of finished tasks in the past week, please see update on [Project G
 
 #### Wednesday
 - Mentor meeting slides, [slides link](https://docs.google.com/presentation/d/1uq3JdfpwVcYZVf7w224PiFYEHWQxfOyKKBRwHR2HNsU/edit?usp=sharing)
+
+#### Thursday 
+- Summarize feedbacks and tasks from Wed meeting 
+- Work on finalizing code on pipeline 
+- Review the Frame Blending article and write the updated video script for explaining Frame Blends in the analyst tutorial 
+
+#### Friday
+- Work on attention mechanism prototype model 
+- Begin working on the tutorial video for running HPC pipeline 
+- Fix bugs and go through the whole iterative process on HPC 
+
+#### Saturday
+- Fix and improve the issues related to frame embedding and FrameNet on HPC 
+- Write script for the pipeline video 
+- Improve the frame vector pair method, user can write frame pairs as prototype instead of frame vector pairs 
+
+#### Sunday 
+- Do the demo audio and screen recordings for two tutorial videos 
+- Solve problems on HPC pipeline and add missing code 
+ 
+### Blog Report 16 
+
+#### Monday 
+- Make progress on tutorial videos  
+- Make progress about pipeline 
+- Work on attention 
+
+#### Tuesday 
+- Finalize tutorial videos before mentor meeting 
+- Finalize pipeline code and documentation
+- Put finished works on Techne Public Site project page 
+
+#### Wednesday
+- Mentor meeting slides
+
