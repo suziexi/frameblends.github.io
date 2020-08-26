@@ -54,6 +54,13 @@ This project is developed by Wenyue Xi (Suzie) for Google Summer of Code 2020 wi
 
 - [Aug 5 Meeting](https://docs.google.com/presentation/d/1v2y12VtZaMk4P9CN7vGtDFvuwSYmkEjyR4p6gr-br9M/edit#slide=id.g86a9946b06_0_68) 
 
+- [Aug 12 Meeting](https://docs.google.com/presentation/d/1KboiP27RbnNAK35B4tUv9kVL-PFlI2_-_dctWW0LbCA/edit?usp=sharing) 
+
+- [Aug 19 Meeting](https://docs.google.com/presentation/d/1uq3JdfpwVcYZVf7w224PiFYEHWQxfOyKKBRwHR2HNsU/edit?usp=sharing) 
+
+- [Aug 26 Meeting](https://docs.google.com/presentation/d/1rMgpT22MJlj7lhgKX6b8N1ie_sZ75mjrG79wB29MZLw/edit?usp=sharing) 
+
+
 ## Quick Index of All Related Papers 
 - [FrameNet II: Extended Theory and Practice](https://framenet2.icsi.berkeley.edu/docs/r1.5/book.pdf) 
 - [Automatic metaphor detection using constructions and frames](https://www.jbe-platform.com/content/journals/10.1075/cf.8.2.06hon) 
