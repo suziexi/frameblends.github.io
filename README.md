@@ -951,10 +951,10 @@ Here is list of finished tasks in the past week, please see update on [Project G
 - Work on attention 
 
 #### Tuesday 
-- Finalize tutorial videos before mentor meeting 
-- Finalize pipeline code and documentation
-- Put finished works on Techne Public Site project page 
+- Finalize two tutorial videos before mentor meeting 
+- Improve and finalize pipeline code and documentation
+- Put finished works on Techne Public Site project page
+- Organize training materials on analyst homepae, will be presented in the meeting 
 
 #### Wednesday
-- Mentor meeting slides
-
+- Mentor meeting [slides(updating)](https://docs.google.com/presentation/d/1rMgpT22MJlj7lhgKX6b8N1ie_sZ75mjrG79wB29MZLw/edit?usp=sharing) 
