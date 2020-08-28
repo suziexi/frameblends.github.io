@@ -965,3 +965,10 @@ Here is list of finished tasks in the past week, please see update on [Project G
 
 #### Wednesday
 - Mentor meeting [slides(updating)](https://docs.google.com/presentation/d/1rMgpT22MJlj7lhgKX6b8N1ie_sZ75mjrG79wB29MZLw/edit?usp=sharing) 
+
+#### Thursday 
+- Work on final submission! 
+
+
+
+### Here comes to the end. Thank you all for this wonderful summer! 
